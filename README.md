@@ -3,158 +3,165 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Augusto Amaral - Senior Software Engineer</title>
+    <title>Andrey Alves - Resume</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap');
+        
+        body {
+            font-family: 'Inter', sans-serif;
+            color: #334155;
+        }
+
         @media print {
             .no-print { display: none; }
-            body { background-color: white; }
-            .print-shadow-none { box-shadow: none !important; }
+            body { background-color: white; padding: 0; }
+            .content-box { box-shadow: none !important; border: none !important; width: 100% !important; max-width: 100% !important; }
+        }
+
+        h2 {
+            letter-spacing: 0.05em;
         }
     </style>
 </head>
-<body class="bg-gray-100 py-10 px-5 font-sans text-gray-800">
+<body class="bg-gray-50 py-12 px-4">
 
-    <div class="max-w-4xl mx-auto bg-white shadow-lg rounded-lg overflow-hidden print-shadow-none">
+    <div class="max-w-[850px] mx-auto bg-white p-10 shadow-sm content-box">
         
-        <header class="bg-slate-800 text-white p-8">
-            <div class="flex flex-col md:flex-row justify-between items-start md:items-center">
-                <div>
-                    <h1 class="text-4xl font-bold tracking-tight">Augusto Amaral</h1>
-                    <p class="text-xl text-blue-400 mt-1 font-medium">Senior Software Engineer & Frontend Team Lead</p>
-                </div>
-                <div class="mt-4 md:mt-0 text-sm space-y-1 text-gray-300">
-                    <p>📧 <a href="mailto:contact@augustoamaral.com" class="hover:text-white transition">contact@augustoamaral.com</a></p>
-                    <p>📱 +55 22 9.98160-7639</p>
-                    <p>📍 Campos dos Goytacazes, RJ, Brazil</p>
-                </div>
-            </div>
+        <header>
+            <h1 class="text-[32px] font-bold text-slate-800 leading-none">Augusto Amaral</h1>
+            <p class="text-lg text-slate-500 mt-2">Senior Software Engineer</p>
             
-            <div class="mt-6 flex flex-wrap gap-4 text-sm border-t border-slate-700 pt-4">
-                <a href="https://linkedin.com/in/auamaral" class="hover:text-blue-400 flex items-center gap-1">🔗 linkedin.com/in/auamaral</a>
-                <a href="https://github.com/AugustoAmaral" class="hover:text-blue-400 flex items-center gap-1">💻 github.com/AugustoAmaral</a>
+            <div class="mt-4 flex flex-wrap gap-x-5 gap-y-2 text-[13px] text-slate-600">
+                <span class="flex items-center gap-1">✉️ <a href="mailto:contact@augustoamaral.com" class="hover:underline">contact@augustoamaral.com</a></span>
+                <span class="flex items-center gap-1">📱 +55 22 9.98160-7639</span>
+                <span class="flex items-center gap-1">🔗 <a href="https://linkedin.com/in/auamaral" class="hover:underline">linkedin.com/in/auamaral</a></span>
+                <span class="flex items-center gap-1">💻 <a href="https://github.com/AugustoAmaral" class="hover:underline">github.com/AugustoAmaral</a></span>
+            </div>
+            <div class="mt-2 text-[13px] text-slate-600">
+                <span>📍 Campos dos Goytacazes, RJ, Brazil</span>
             </div>
         </header>
 
-        <div class="p-8 grid grid-cols-1 md:grid-cols-3 gap-8">
+        <hr class="my-6 border-slate-300">
+
+        <section class="mb-8">
+            <h2 class="text-[15px] font-bold text-slate-800 uppercase mb-3">Professional Summary</h2>
+            <p class="text-[14px] leading-relaxed text-slate-700 text-justify">
+                Senior Software Engineer and Frontend Team Lead with 7+ years of experience building scalable enterprise solutions. Expert in React, TypeScript, Python, and Ruby on Rails with proven track record leading frontend teams and architecting design systems. Demonstrated impact: 80% cost reduction in testing infrastructure, 90%+ code coverage, and zero-downtime product launches.
+            </p>
+        </section>
+
+        <section class="mb-8">
+            <h2 class="text-[15px] font-bold text-slate-800 uppercase mb-4">Professional Experience</h2>
             
-            <div class="md:col-span-2 space-y-8">
-                
-                <section>
-                    <h2 class="text-2xl font-bold text-slate-800 border-b-2 border-blue-500 pb-1 mb-4 uppercase text-sm tracking-widest">Professional Summary</h2>
-                    <p class="leading-relaxed">
-                        Senior Software Engineer and Frontend Team Lead with 7+ years of experience building scalable enterprise solutions. Expert in React, TypeScript, Python, and Ruby on Rails with a proven track record leading teams and architecting design systems. 
-                        <strong>Impact:</strong> 80% cost reduction in testing infrastructure and 90%+ code coverage.
-                    </p>
-                </section>
-
-                <section>
-                    <h2 class="text-2xl font-bold text-slate-800 border-b-2 border-blue-500 pb-1 mb-6 uppercase text-sm tracking-widest">Professional Experience</h2>
-                    
-                    <div class="space-y-8">
-                        <div>
-                            <div class="flex justify-between items-start">
-                                <h3 class="font-bold text-lg text-slate-700">Senior Software Engineer & Team Lead</h3>
-                                <span class="text-sm font-semibold bg-gray-100 px-2 py-1 rounded">2024 - 2025</span>
-                            </div>
-                            <p class="text-blue-600 font-medium">Three60 Energy / Maiella — Norway/Italy</p>
-                            <ul class="mt-2 list-disc list-outside ml-5 space-y-1 text-sm text-gray-700">
-                                <li>Led a 3-person frontend team developing BI solutions for the Oil & Gas industry.</li>
-                                <li>Built design system with Storybook achieving 90%+ test coverage.</li>
-                                <li>Reduced infrastructure costs by 80% using a custom Playwright-based solution.</li>
-                                <li>Architected end-to-end type safety using Elysia + Eden Treaty.</li>
-                            </ul>
-                        </div>
-
-                        <div>
-                            <div class="flex justify-between items-start">
-                                <h3 class="font-bold text-lg text-slate-700">Mid Software Engineer</h3>
-                                <span class="text-sm font-semibold bg-gray-100 px-2 py-1 rounded">2022 - 2024</span>
-                            </div>
-                            <p class="text-blue-600 font-medium">Zoolatech / Procore — USA</p>
-                            <ul class="mt-2 list-disc list-outside ml-5 space-y-1 text-sm text-gray-700">
-                                <li>Consultant for Procore's Rails/React enterprise construction platform.</li>
-                                <li>Improved test coverage by 40% and delivered critical budget management features.</li>
-                                <li>Integrated DBT for the Reports team and led data exposure initiatives.</li>
-                            </ul>
-                        </div>
-
-                        <div>
-                            <div class="flex justify-between items-start">
-                                <h3 class="font-bold text-lg text-slate-700">CTO & Co-founder</h3>
-                                <span class="text-sm font-semibold bg-gray-100 px-2 py-1 rounded">2021 - 2022</span>
-                            </div>
-                            <p class="text-blue-600 font-medium">Avaliei! — Brazil</p>
-                            <ul class="mt-2 list-disc list-outside ml-5 space-y-1 text-sm text-gray-700">
-                                <li>Transformed a hackathon concept into a venture-backed startup with Vibra Energia S.A.</li>
-                                <li>Architected full-stack solutions using serverless architecture for low operational costs.</li>
-                            </ul>
-                        </div>
+            <div class="space-y-6">
+                <div>
+                    <div class="flex justify-between items-baseline">
+                        <h3 class="text-[15px] font-bold text-slate-800">Senior Software Engineer & Team Lead</h3>
+                        <span class="text-[13px] text-slate-400 font-medium">February 2024 - November 2025</span>
                     </div>
-                </section>
-            </div>
-
-            <div class="space-y-8">
-                <section>
-                    <h2 class="text-lg font-bold text-slate-800 border-b-2 border-blue-500 pb-1 mb-4 uppercase tracking-widest text-xs">Technical Skills</h2>
-                    <div class="space-y-4">
-                        <div>
-                            <h4 class="font-bold text-xs text-gray-500 uppercase">Languages & Frameworks</h4>
-                            <p class="text-sm flex flex-wrap gap-1 mt-1">
-                                <span class="bg-blue-50 text-blue-700 px-2 py-1 rounded">TypeScript</span>
-                                <span class="bg-blue-50 text-blue-700 px-2 py-1 rounded">React.js</span>
-                                <span class="bg-blue-50 text-blue-700 px-2 py-1 rounded">Ruby on Rails</span>
-                                <span class="bg-blue-50 text-blue-700 px-2 py-1 rounded">Python</span>
-                                <span class="bg-blue-50 text-blue-700 px-2 py-1 rounded">Node.js</span>
-                                <span class="bg-blue-50 text-blue-700 px-2 py-1 rounded">GraphQL</span>
-                            </p>
-                        </div>
-                        <div>
-                            <h4 class="font-bold text-xs text-gray-500 uppercase">Tools & Infrastructure</h4>
-                            <p class="text-sm flex flex-wrap gap-1 mt-1">
-                                <span class="bg-gray-100 px-2 py-1 rounded">Docker</span>
-                                <span class="bg-gray-100 px-2 py-1 rounded">CI/CD</span>
-                                <span class="bg-gray-100 px-2 py-1 rounded">AWS/Azure</span>
-                                <span class="bg-gray-100 px-2 py-1 rounded">Playwright</span>
-                                <span class="bg-gray-100 px-2 py-1 rounded">PostgreSQL</span>
-                            </p>
-                        </div>
-                    </div>
-                </section>
-
-                <section>
-                    <h2 class="text-lg font-bold text-slate-800 border-b-2 border-blue-500 pb-1 mb-4 uppercase tracking-widest text-xs">Education</h2>
-                    <div class="text-sm">
-                        <p class="font-bold text-slate-700">B.S. Computer Science</p>
-                        <p class="text-gray-600">UENF, Brazil</p>
-                        <p class="text-xs text-gray-500">2018 - 2025</p>
-                    </div>
-                </section>
-
-                <section>
-                    <h2 class="text-lg font-bold text-slate-800 border-b-2 border-blue-500 pb-1 mb-4 uppercase tracking-widest text-xs">Languages</h2>
-                    <ul class="text-sm space-y-1">
-                        <li class="flex justify-between"><span>Portuguese</span> <span class="text-gray-500 italic">Native</span></li>
-                        <li class="flex justify-between"><span>English</span> <span class="text-gray-500 italic">Fluent</span></li>
-                        <li class="flex justify-between"><span>Spanish</span> <span class="text-gray-500 italic">Advanced</span></li>
+                    <p class="text-[13px] italic text-slate-500">Three60 Energy / Maiella, Norway/Italy</p>
+                    <ul class="mt-2 list-disc list-outside ml-4 space-y-1 text-[13.5px] text-slate-700">
+                        <li>Led a 3 person frontend team developing BI solutions for oil & gas industry, owning architecture decisions and delivery strategy</li>
+                        <li>Built design system and component library with Storybook achieving 90%+ test coverage across multiple products</li>
+                        <li>Reduced infrastructure costs by 80% replacing Chromatic with custom Playwright based visual regression testing solution</li>
+                        <li>Architected end-to-end type safety using Elysia + Eden Treaty, eliminating API contract bugs across monorepo</li>
+                        <li>Built data visualization dashboards using React, TypeScript, and ECharts; contributed Python backend services</li>
+                        <li>Developed CI/CD pipelines with GitHub Actions and Azure DevOps with intelligent caching</li>
                     </ul>
-                </section>
+                </div>
 
-                <section class="bg-blue-50 p-4 rounded-lg">
-                    <h2 class="text-sm font-bold text-blue-800 mb-2 uppercase tracking-tighter">Notable Achievements</h2>
-                    <ul class="text-xs space-y-2 text-blue-900 italic">
-                        <li>🏆 Hacking.Rio Cluster Winner</li>
-                        <li>🏆 Procore Hackathon Winner</li>
-                        <li>🎓 Stanford Code in Place 2020</li>
+                <div>
+                    <div class="flex justify-between items-baseline">
+                        <h3 class="text-[15px] font-bold text-slate-800">Mid Software Engineer</h3>
+                        <span class="text-[13px] text-slate-400 font-medium">July 2022 - February 2024</span>
+                    </div>
+                    <p class="text-[13px] italic text-slate-500">Zoolatech / Procore, USA</p>
+                    <ul class="mt-2 list-disc list-outside ml-4 space-y-1 text-[13.5px] text-slate-700">
+                        <li>Consultant for Procore's 20-year-old Rails/React enterprise construction management platform</li>
+                        <li>Improved test coverage by 40% and delivered critical features for budget management module</li>
+                        <li>Led cross-team data exposure initiatives; integrated DBT for Reports team</li>
+                        <li>Won internal hackathon with landing page solution reducing user navigation by 30%</li>
+                        <li>Partnered with PMs and designers throughout feature lifecycle from requirements to delivery</li>
                     </ul>
-                </section>
+                </div>
+
+                <div>
+                    <div class="flex justify-between items-baseline">
+                        <h3 class="text-[15px] font-bold text-slate-800">CTO & Co-founder</h3>
+                        <span class="text-[13px] text-slate-400 font-medium">May 2021 - July 2022</span>
+                    </div>
+                    <p class="text-[13px] italic text-slate-500">Avaliei!, Brazil</p>
+                    <ul class="mt-2 list-disc list-outside ml-4 space-y-1 text-[13.5px] text-slate-700">
+                        <li>Technical co-founder after being a finalist in Hacking.Rio 2019 (700+ participants); transformed concept into venture-backed startup</li>
+                        <li>Architected full-stack solutions in partnership with Vibra Energia S.A.</li>
+                        <li>Achieved low operational costs through serverless architecture and automated pipelines</li>
+                    </ul>
+                </div>
+
+                <div>
+                    <div class="flex justify-between items-baseline">
+                        <h3 class="text-[15px] font-bold text-slate-800">Junior Full-stack Developer</h3>
+                        <span class="text-[13px] text-slate-400 font-medium">January 2019 - July 2022</span>
+                    </div>
+                    <p class="text-[13px] italic text-slate-500">Odda Digital System, Norway</p>
+                    <ul class="mt-2 list-disc list-outside ml-4 space-y-1 text-[13.5px] text-slate-700">
+                        <li>Built GraphQL API gateway unifying multiple backend services; developed microservices with Node.js, React, Ruby on Rails</li>
+                        <li>Architected event-driven automation using Azure Service Bus, replacing manual ERP data entry</li>
+                        <li>Promoted from frontend to full-stack within 6 months</li>
+                    </ul>
+                </div>
             </div>
+        </section>
+
+        <hr class="my-6 border-slate-300">
+
+        <section class="mb-8">
+            <h2 class="text-[15px] font-bold text-slate-800 uppercase mb-4 tracking-tighter">Technical Skills</h2>
+            <div class="grid grid-cols-2 gap-8">
+                <div>
+                    <h4 class="text-[14px] font-bold text-slate-700 mb-1">Languages & Frameworks:</h4>
+                    <p class="text-[13.5px] text-slate-600">TypeScript, React.js, Ruby on Rails, Python, Node.js, SQL, GraphQL</p>
+                </div>
+                <div>
+                    <h4 class="text-[14px] font-bold text-slate-700 mb-1">Tools & Infrastructure:</h4>
+                    <p class="text-[13.5px] text-slate-600">Storybook, Playwright, Jest, Cypress, Docker, Git, CI/CD, AWS, Azure DevOps, PostgreSQL, MongoDB, Redux</p>
+                </div>
+            </div>
+        </section>
+
+        <div class="grid grid-cols-3 gap-6 pt-4 border-t border-slate-300">
+            <section>
+                <h2 class="text-[13px] font-bold text-slate-800 uppercase mb-2">Education</h2>
+                <p class="text-[13px] font-bold text-slate-700 leading-tight">Bachelor of Computer Science</p>
+                <p class="text-[12px] text-slate-500">UENF - Brazil | 2018 - 2025</p>
+            </section>
+            
+            <section>
+                <h2 class="text-[13px] font-bold text-slate-800 uppercase mb-2">Languages</h2>
+                <div class="text-[13px] text-slate-700">
+                    <p><strong>Portuguese:</strong> Native</p>
+                    <p><strong>English:</strong> Fluent</p>
+                    <p><strong>Spanish:</strong> Advanced</p>
+                </div>
+            </section>
+
+            <section>
+                <h2 class="text-[13px] font-bold text-slate-800 uppercase mb-2">Notable Achievements</h2>
+                <ul class="text-[12px] text-slate-700 space-y-1">
+                    <li>• Hacking.Rio 2019 Winner</li>
+                    <li>• Procore Hackathon Winner</li>
+                    <li>• Stanford Code in Place 2020</li>
+                </ul>
+            </section>
         </div>
+
     </div>
 
-    <div class="max-w-4xl mx-auto mt-6 text-center no-print">
-        <button onclick="window.print()" class="bg-slate-800 text-white px-6 py-2 rounded-full hover:bg-slate-700 transition shadow-md">
-            Imprimir em PDF
+    <div class="max-w-[850px] mx-auto mt-6 text-right no-print">
+        <button onclick="window.print()" class="bg-slate-800 text-white px-8 py-2 text-sm font-semibold rounded hover:bg-slate-700 transition">
+            Exportar como PDF
         </button>
     </div>
 
