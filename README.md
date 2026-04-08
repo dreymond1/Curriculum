@@ -29,7 +29,7 @@
         
         <header>
             <h1 class="text-[32px] font-bold text-slate-800 leading-none">Andrey Alves</h1>
-            <p class="text-lg text-slate-500 mt-2">Data Analyst</p>
+            <p class="text-lg text-slate-500 mt-2">Data Analyst & Data Engineer</p>
             
             <div class="mt-4 flex flex-wrap gap-x-5 gap-y-2 text-[13px] text-slate-600">
                 <span class="flex items-center gap-1">✉️ <a href="mailto:andrey.alves9@gmail.com" class="hover:underline">andrey.alves9@gmail.com</a></span>
@@ -45,7 +45,7 @@
         <hr class="my-6 border-slate-300">
 
         <section class="mb-8">
-            <h2 class="text-[15px] font-bold text-slate-800 uppercase mb-3">Professional Summary</h2>
+            <h2 class="text-[15px] font-bold text-slate-800 uppercase mb-3">Resumo Profissional</h2>
             <p class="text-[14px] leading-relaxed text-slate-700 text-justify">
                 Especialista automatizar e em extrair valor de grandes volumes de dados através de automação e inteligência artificial. Unindo o rigor técnico da Engenharia de Dados (Python/SQL) com a visão estratégica da Análise de Dados, projeto soluções que otimizam processos e operações em até 80%. Expertise em arquitetar dashboards de alto impacto e implementar modelos de Redes Neurais e ML para suporte à decisão crítica.
             </p>
@@ -120,12 +120,12 @@
             <h2 class="text-[15px] font-bold text-slate-800 uppercase mb-4 tracking-tighter">Technical Skills</h2>
             <div class="grid grid-cols-2 gap-8">
                 <div>
-                    <h4 class="text-[14px] font-bold text-slate-700 mb-1">Languages & Frameworks:</h4>
-                    <p class="text-[13.5px] text-slate-600">TypeScript, React.js, Ruby on Rails, Python, Node.js, SQL, GraphQL</p>
+                    <h4 class="text-[14px] font-bold text-slate-700 mb-1">Linguagens & Frameworks:</h4>
+                    <p class="text-[13.5px] text-slate-600"> Python, JavaScript, SQL</p>
                 </div>
                 <div>
-                    <h4 class="text-[14px] font-bold text-slate-700 mb-1">Tools & Infrastructure:</h4>
-                    <p class="text-[13.5px] text-slate-600">Storybook, Playwright, Jest, Cypress, Docker, Git, CI/CD, AWS, Azure DevOps, PostgreSQL, MongoDB, Redux</p>
+                    <h4 class="text-[14px] font-bold text-slate-700 mb-1">Ferramentas e Infraestrutura:</h4>
+                    <p class="text-[13.5px] text-slate-600">Tableau, Excel/Sheets, Data Studio, Git/Github, Spark, Airflow, Docker, Kafka, AWS</p>
                 </div>
             </div>
         </section>
@@ -138,7 +138,7 @@
             </section>
             
             <section>
-                <h2 class="text-[13px] font-bold text-slate-800 uppercase mb-2">Languages</h2>
+                <h2 class="text-[13px] font-bold text-slate-800 uppercase mb-2">Línguas</h2>
                 <div class="text-[13px] text-slate-700">
                     <p><strong>Portuguese:</strong> Nativo</p>
                     <p><strong>English:</strong> Avançado</p>
