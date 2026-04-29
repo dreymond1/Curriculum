@@ -155,6 +155,3 @@
             Exportar como PDF
         </button>
     </div>
-
-</body>
-</html>
