@@ -113,7 +113,7 @@
                 </div>
 
                 </div>
-
+        </section>
 
         <hr class="my-6 border-slate-300">
 
