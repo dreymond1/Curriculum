@@ -100,7 +100,7 @@
             <div class="space-y-6">
                 <div>
                     <div class="flex justify-between items-baseline">
-                        <h3 class="text-[15px] font-bold text-slate-800">Estágio em Dadosr</h3>
+                        <h3 class="text-[15px] font-bold text-slate-800">Estágio em Dados</h3>
                         <span class="text-[13px] text-slate-400 font-medium">Janeiro 2022 - Agosto 2023</span>
                     </div>
                     <p class="text-[13px] italic text-slate-500">OLX Brasil, Brasil</p>
@@ -113,7 +113,7 @@
                 </div>
 
                 </div>
-        </section>
+
 
         <hr class="my-6 border-slate-300">
 
