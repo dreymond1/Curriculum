@@ -69,11 +69,11 @@
                     </div>
                     <p class="text-[13px] italic text-slate-500">Grupo OLX, Brasil</p>
                     <ul class="mt-2 list-disc ml-4 space-y-1 text-[13.5px] text-slate-700">
-                        <li>Automação de processos com Python, reduzindo ~50% do tempo operacional.</li>
-                        <li>Análise estratégica de KPIs comerciais (clientes, receita, performance).</li>
-                        <li>Criação de dashboards em Tableau e Google Sheets com foco executivo.</li>
-                        <li>Análises de mercado no setor automotivo (tendências e comportamento).</li>
-                        <li>Experiência complementar no mercado imobiliário.</li>
+                    <li>Automação de processos e rotinas operacionais utilizando Python, substituindo atualizações manuais e reduzindo em aproximadamente 50% o tempo de execução das atividades.</li>
+                    <li>Análise estratégica dos principais KPIs da área comercial, acompanhando métricas de clientes, receita e performance de produto.</li>
+                    <li>Desenvolvimento de dashboards em Tableau e Google Sheets, com foco em visão executiva do negócio e otimização de estruturas analíticas que apresentavam gargalos de performance.</li>
+                    <li>Atuação em análises de mercado no setor automotivo, identificando tendências, padrões de comportamento e oportunidades de melhoria.</li> 
+                    <li>Experiência complementar em análises no mercado imobiliário, contribuindo com insights para suporte estratégico.</li>
                     </ul>
                 </div>
 
@@ -84,14 +84,13 @@
                     </div>
                     <p class="text-[13px] italic text-slate-500">OLX Brasil, Brasil</p>
                     <ul class="mt-2 list-disc ml-4 space-y-1 text-[13.5px] text-slate-700">
-                        <li>Dashboards em Tableau, Looker e Sheets para decisão estratégica.</li>
-                        <li>Análise de grandes volumes de dados (datalake).</li>
-                        <li>Automação com Python e SQL.</li>
-                        <li>Modelos de ML e análise de sentimentos com redes neurais.</li>
-                        <li>Criação de APIs para modelos em nuvem.</li>
-                        <li>Uso de IA generativa para geração de insights.</li>
-                        <li>Técnicas estatísticas (regressão, correlação, outliers).</li>
-                        <li>Relatórios avançados no Salesforce.</li>
+                    <li>Desenvolvimento e gestão de dashboards dinâmicos em Tableau, Looker Studio e Google Sheets para monitoramento de KPIs e métricas de negócio, apoiando a tomada de decisão estratégica.</li>
+                    <li>Análise de grandes volumes de dados (datalake) para identificação de padrões, tendências e anomalias com impacto na experiência do usuário e eficiência operacional.</li> 
+                    <li>Automação de processos e rotinas analíticas utilizando Python e SQL, reduzindo tempo operacional e aumentando a produtividade das equipes.</li> 
+                    <li>Desenvolvimento de modelos de Machine Learning (preditivos e análise de sentimentos) utilizando redes neurais, identificando padrões em feedbacks e interações de usuários.</li> 
+                    <li>Criação e disponibilização de APIs para modelos de ML em ambiente de nuvem, permitindo integração com sistemas e ferramentas externas.</li> 
+                    <li>Aplicação de IA Generativa para análise automatizada de dados e geração de insights estratégicos.</li> 
+                    <li>Aplicação de técnicas estatísticas (regressão, correlação e detecção de outliers) para maior robustez analítica e velocidade em rotina de análise (otimização de até 80% de tempo gasto).</li>                           <li>Criação e manutenção de relatórios avançados no Salesforce, facilitando a extração de insights e alinhamento entre áreas.</li>
                     </ul>
                 </div>
 
@@ -102,10 +101,10 @@
                     </div>
                     <p class="text-[13px] italic text-slate-500">OLX Brasil, Brasil</p>
                     <ul class="mt-2 list-disc ml-4 space-y-1 text-[13.5px] text-slate-700">
-                        <li>Relatórios em Sheets, Excel e SQL.</li>
-                        <li>Análises quantitativas e qualitativas.</li>
-                        <li>Monitoramento de mercado e concorrência.</li>
-                        <li>Automação no Looker Studio.</li>
+                    <li>Desenvolvimento e manutenção de relatórios em Google Sheets, Excel e SQL para suporte à equipe de atendimento.</li> 
+                    <li>Realização de análises quantitativas e qualitativas para identificação de problemas e geração de insights acionáveis.</li> 
+                    <li>Monitoramento de tendências de mercado e concorrência, apoiando decisões estratégicas de produto e melhorias da plataforma.</li> 
+                    <li>Automação de relatórios e análises no Looker Studio, reduzindo o tempo de geração de insights e aumentando a eficiência operacional.</li>
                     </ul>
                 </div>
 
