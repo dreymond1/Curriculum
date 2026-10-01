@@ -122,7 +122,7 @@
                 </div>
                 <div>
                     <h4 class="text-[14px] font-bold text-slate-700 mb-1">Ferramentas:</h4>
-                    <p class="text-[13.5px] text-slate-600">Tableau, Sheets, Data Studio, Git, Spark, Airflow, Docker, Kafka, AWS</p>
+                    <p class="text-[13.5px] text-slate-600">Tableau, Sheets, Data Studio, Git, Spark, Airflow, Docker, Kafka, AWS, Streamlit</p>
                 </div>
             </div>
         </section>
