@@ -53,7 +53,7 @@
         <section class="mb-8">
             <h2 class="text-[15px] font-bold text-slate-800 uppercase mb-3">Resumo Profissional</h2>
             <p class="text-[14px] leading-relaxed text-slate-700 text-justify">
-                Especialista em automatizar e extrair valor de grandes volumes de dados através de automação e inteligência artificial. Unindo o rigor técnico da Engenharia de Dados (Python/SQL) com a visão estratégica da Análise de Dados, projeto soluções que otimizam processos e operações em até 80%. Expertise em arquitetar dashboards de alto impacto e implementar modelos de Redes Neurais e ML para suporte à decisão crítica.
+                Especialista em automatizar e extrair valor de grandes volumes de dados através de automação, inteligência artificial e IA Generativa. Unindo o rigor técnico da Engenharia de Dados (Python/SQL) com a visão estratégica da Análise de Dados, projeto soluções que otimizam processos e operações em até 80%. Expertise em arquitetar dashboards de alto impacto, implementar modelos de Redes Neurais/ML e desenvolver aplicações de GenAI (LLMs, arquiteturas RAG e agentes autônomos) para transformação operacional e suporte à decisão crítica.
             </p>
         </section>
 
