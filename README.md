@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
@@ -34,77 +35,76 @@
 
     <div class="max-w-[850px] mx-auto bg-white p-10 shadow-sm content-box">
         
+        <!-- CABEÇALHO (Otimizado sem emojis para ATS) -->
         <header>
             <h1 class="text-[32px] font-bold text-slate-800 leading-none">Andrey Alves</h1>
-            <p class="text-lg text-slate-500 mt-2">Data Analyst & Data Engineer</p>
+            <p class="text-lg text-slate-600 font-semibold mt-2">Data Analyst & Data Engineer</p>
             
             <div class="mt-4 flex flex-wrap gap-x-5 gap-y-2 text-[13px] text-slate-600">
-                <span class="flex items-center gap-1">✉️ <a href="mailto:andrey.alves9@gmail.com" class="hover:underline">andrey.alves9@gmail.com</a></span>
-                <span class="flex items-center gap-1">📱 +55 21 979345896</span>
-                <span class="flex items-center gap-1">🔗 <a href="https://www.linkedin.com/in/andrey-de-abreu-9a499b154/" target="_blank" class="hover:underline">linkedin.com/in/andreydeabreu</a></span>
+                <span>E-mail: <a href="mailto:andrey.alves9@gmail.com" class="hover:underline text-slate-800">andrey.alves9@gmail.com</a></span>
+                <span>Telefone: +55 (21) 97934-5896</span>
+                <span>LinkedIn: <a href="https://www.linkedin.com/in/andrey-de-abreu-9a499b154/" target="_blank" class="hover:underline text-slate-800">linkedin.com/in/andreydeabreu</a></span>
             </div>
             <div class="mt-2 text-[13px] text-slate-600">
-                <span>📍 Nova Iguaçu, RJ, Brazil</span>
+                <span>Localização: Nova Iguaçu, RJ - Brasil</span>
             </div>
         </header>
 
         <hr class="my-6 border-slate-300">
 
+        <!-- RESUMO PROFISSIONAL -->
         <section class="mb-8">
             <h2 class="text-[15px] font-bold text-slate-800 uppercase mb-3">Resumo Profissional</h2>
             <p class="text-[14px] leading-relaxed text-slate-700 text-justify">
-                Especialista em automatizar e extrair valor de grandes volumes de dados através de automação, inteligência artificial e IA Generativa. Unindo o rigor técnico da Engenharia de Dados (Python/SQL) com a visão estratégica da Análise de Dados, projeto soluções que otimizam processos e operações em até 80%. Expertise em arquitetar dashboards de alto impacto, implementar modelos de Redes Neurais/ML e desenvolver aplicações de GenAI (LLMs, arquiteturas RAG e agentes autônomos) para transformação operacional e suporte à decisão crítica.
+                Cientista da Computação e Analista de Dados Pleno com sólida atuação em Engenharia de Dados, Business Intelligence e Inteligência Artificial. Especialista na automação de pipelines analíticos e extração de valor de grandes volumes de dados (Data Lake), unindo o rigor técnico de Python e SQL à visão estratégica de negócios. Histórico comprovado na otimização de processos operacionais em até 80%, arquitetura de dashboards executivos (Tableau/Looker) e desenvolvimento de aplicações de IA Generativa (LLMs, RAG e agentes autônomos) voltadas para suporte à tomada de decisão estratégica.
             </p>
         </section>
 
+        <!-- EXPERIÊNCIAS PROFISSIONAIS -->
         <section class="mb-8">
-            <h2 class="text-[15px] font-bold text-slate-800 uppercase mb-4">Experiências Profissionais</h2>
+            <h2 class="text-[15px] font-bold text-slate-800 uppercase mb-4">Experiência Profissional</h2>
 
             <div class="space-y-6">
 
                 <div>
                     <div class="flex justify-between items-baseline">
                         <h3 class="text-[15px] font-bold text-slate-800">Analista de Dados Pleno | Estratégia Comercial</h3>
-                        <span class="text-[13px] text-slate-400 font-medium">Junho 2025 - atualmente</span>
+                        <span class="text-[13px] text-slate-500 font-medium">Jun/2025 – Atual</span>
                     </div>
                     <p class="text-[13px] italic text-slate-500">Grupo OLX, Brasil</p>
-                    <ul class="mt-2 list-disc ml-4 space-y-1 text-[13.5px] text-slate-700">
-                    <li>Automação de processos e rotinas operacionais utilizando Python, substituindo atualizações manuais e reduzindo em aproximadamente 50% o tempo de execução das atividades.</li>
-                    <li>Análise estratégica dos principais KPIs da área comercial, acompanhando métricas de clientes, receita e performance de produto.</li>
-                    <li>Desenvolvimento de dashboards em Tableau e Google Sheets, com foco em visão executiva do negócio e otimização de estruturas analíticas que apresentavam gargalos de performance.</li>
-                    <li>Atuação em análises de mercado no setor automotivo, identificando tendências, padrões de comportamento e oportunidades de melhoria.</li> 
-                    <li>Experiência complementar em análises no mercado imobiliário, contribuindo com insights para suporte estratégico.</li>
+                    <ul class="mt-2 list-disc ml-4 space-y-1.5 text-[13.5px] text-slate-700">
+                        <li><strong>Automação & Processos:</strong> Automatizei rotinas e processos operacionais críticos utilizando Python e SQL, eliminando atualizações manuais e reduzindo em 50% o tempo de execução das atividades da equipe.</li>
+                        <li><strong>Análise Estratégica & Business Intelligence:</strong> Liderei o acompanhamento dos principais KPIs comerciais (receita, churn, LTV e performance de produto), estruturando visões analíticas para a alta gestão.</li>
+                        <li><strong>Data Visualization & Performance:</strong> Desenvolvi e otimizei dashboards executivos em Tableau e Google Sheets, identificando e corrigindo gargalos de performance em bases de dados complexas.</li>
+                        <li><strong>Inteligência de Mercado:</strong> Conduzi análises preditivas e comportamentais nos setores Automotivo e Imobiliário, gerando insights acionáveis para direcionamento de estratégias de vendas e posicionamento.</li>
                     </ul>
                 </div>
 
                 <div>
                     <div class="flex justify-between items-baseline">
                         <h3 class="text-[15px] font-bold text-slate-800">Analista de Dados Junior | Customer Experience</h3>
-                        <span class="text-[13px] text-slate-400 font-medium">Setembro 2023 - Junho 2025</span>
+                        <span class="text-[13px] text-slate-500 font-medium">Set/2023 – Jun/2025</span>
                     </div>
-                    <p class="text-[13px] italic text-slate-500">OLX Brasil, Brasil</p>
-                    <ul class="mt-2 list-disc ml-4 space-y-1 text-[13.5px] text-slate-700">
-                    <li>Desenvolvimento e gestão de dashboards dinâmicos em Tableau, Looker Studio e Google Sheets para monitoramento de KPIs e métricas de negócio, apoiando a tomada de decisão estratégica.</li>
-                    <li>Análise de grandes volumes de dados (datalake) para identificação de padrões, tendências e anomalias com impacto na experiência do usuário e eficiência operacional.</li> 
-                    <li>Automação de processos e rotinas analíticas utilizando Python e SQL, reduzindo tempo operacional e aumentando a produtividade das equipes.</li> 
-                    <li>Desenvolvimento de modelos de Machine Learning (preditivos e análise de sentimentos) utilizando redes neurais, identificando padrões em feedbacks e interações de usuários.</li> 
-                    <li>Criação e disponibilização de APIs para modelos de ML em ambiente de nuvem, permitindo integração com sistemas e ferramentas externas.</li> 
-                    <li>Aplicação de IA Generativa para análise automatizada de dados e geração de insights estratégicos.</li> 
-                    <li>Aplicação de técnicas estatísticas (regressão, correlação e detecção de outliers) para maior robustez analítica e velocidade em rotina de análise (otimização de até 80% de tempo gasto).</li>                           <li>Criação e manutenção de relatórios avançados no Salesforce, facilitando a extração de insights e alinhamento entre áreas.</li>
+                    <p class="text-[13px] italic text-slate-500">Grupo OLX, Brasil</p>
+                    <ul class="mt-2 list-disc ml-4 space-y-1.5 text-[13.5px] text-slate-700">
+                        <li><strong>Machine Learning & IA Generativa:</strong> Implementei modelos preditivos e de análise de sentimentos baseados em Redes Neurais e LLMs para classificação automatizada de feedbacks, otimizando o tempo de análise em até 80%.</li>
+                        <li><strong>Engenharia de Analytics & APIs:</strong> Desenvolvi e disponibilizei REST APIs em ambiente de nuvem (AWS) para integração de modelos de ML com sistemas operacionais internos.</li>
+                        <li><strong>Data Lake & Análise Exploratória:</strong> Analisei grandes volumes de dados não estruturados no Data Lake, identificando padrões, anomalias de produto e gargalos de eficiência operacional.</li>
+                        <li><strong>Dashboards & CRM Analytics:</strong> Estruturei painéis dinâmicos no Tableau, Looker Studio e Salesforce, unificando métricas de CX e facilitando a tomada de decisão entre diferentes stakeholders.</li>
+                        <li><strong>Análise Estatística Avançada:</strong> Apliquei modelagem estatística (regressão, correlação e detecção de outliers) para garantir maior acurácia nas projeções e diagnósticos operacionais.</li>
                     </ul>
                 </div>
 
                 <div>
                     <div class="flex justify-between items-baseline">
-                        <h3 class="text-[15px] font-bold text-slate-800">Estágio em Dados</h3>
-                        <span class="text-[13px] text-slate-400 font-medium">Janeiro 2022 - Agosto 2023</span>
+                        <h3 class="text-[15px] font-bold text-slate-800">Estagiário de Análise de Dados</h3>
+                        <span class="text-[13px] text-slate-500 font-medium">Jan/2022 – Ago/2023</span>
                     </div>
-                    <p class="text-[13px] italic text-slate-500">OLX Brasil, Brasil</p>
-                    <ul class="mt-2 list-disc ml-4 space-y-1 text-[13.5px] text-slate-700">
-                    <li>Desenvolvimento e manutenção de relatórios em Google Sheets, Excel e SQL para suporte à equipe de atendimento.</li> 
-                    <li>Realização de análises quantitativas e qualitativas para identificação de problemas e geração de insights acionáveis.</li> 
-                    <li>Monitoramento de tendências de mercado e concorrência, apoiando decisões estratégicas de produto e melhorias da plataforma.</li> 
-                    <li>Automação de relatórios e análises no Looker Studio, reduzindo o tempo de geração de insights e aumentando a eficiência operacional.</li>
+                    <p class="text-[13px] italic text-slate-500">Grupo OLX, Brasil</p>
+                    <ul class="mt-2 list-disc ml-4 space-y-1.5 text-[13.5px] text-slate-700">
+                        <li><strong>Automação de Relatórios:</strong> Automatizei a geração de relatórios periódicos no Looker Studio e Google Sheets via queries SQL, garantindo atualização em tempo real e maior ganho de eficiência.</li>
+                        <li><strong>Suporte Operacional & Insights:</strong> Realizei análises quantitativas e qualitativas para suporte direto às operações de atendimento, identificando causas raízes de inconsistências.</li>
+                        <li><strong>Benchmarking & Mercado:</strong> Conduzi o monitoramento contínuo de concorrência e tendências de mercado para respaldar o planejamento estratégico de melhorias do produto.</li>
                     </ul>
                 </div>
 
@@ -113,41 +113,52 @@
 
         <hr class="my-6 border-slate-300">
 
+        <!-- COMPETÊNCIAS TÉCNICAS (Agrupadas e ricas em palavras-chave para ATS) -->
         <section class="mb-8">
-            <h2 class="text-[15px] font-bold text-slate-800 uppercase mb-4">Technical Skills</h2>
-            <div class="grid grid-cols-2 gap-8">
+            <h2 class="text-[15px] font-bold text-slate-800 uppercase mb-4">Habilidades Técnicas & Tecnologias</h2>
+            <div class="grid grid-cols-2 gap-y-3 gap-x-8 text-[13.5px]">
                 <div>
-                    <h4 class="text-[14px] font-bold text-slate-700 mb-1">Linguagens & Frameworks:</h4>
-                    <p class="text-[13.5px] text-slate-600">Python, JavaScript, SQL</p>
+                    <span class="font-bold text-slate-800">Linguagens & Scripts:</span>
+                    <p class="text-slate-600">Python (Pandas, NumPy, Scikit-learn), SQL, JavaScript, HTML/CSS</p>
                 </div>
                 <div>
-                    <h4 class="text-[14px] font-bold text-slate-700 mb-1">Ferramentas:</h4>
-                    <p class="text-[13.5px] text-slate-600">Tableau, Sheets, Data Studio, Git, Spark, Airflow, Docker, Kafka, AWS, Streamlit</p>
+                    <span class="font-bold text-slate-800">Engenharia de Dados & Cloud:</span>
+                    <p class="text-slate-600">ETL/ELT, Apache Spark, Airflow, Docker, Kafka, AWS, Git/GitHub</p>
+                </div>
+                <div>
+                    <span class="font-bold text-slate-800">Data Visualization & BI:</span>
+                    <p class="text-slate-600">Tableau, Looker Studio (Data Studio), Google Sheets Avançado, Salesforce</p>
+                </div>
+                <div>
+                    <span class="font-bold text-slate-800">Inteligência Artificial & Machine Learning:</span>
+                    <p class="text-slate-600">LLMs, Arquiteturas RAG, Agentes Autônomos, Redes Neurais, Streamlit, REST APIs</p>
                 </div>
             </div>
         </section>
 
+        <!-- EDUCAÇÃO E IDIOMAS -->
         <div class="grid grid-cols-2 gap-6 pt-4 border-t border-slate-300">
             <section>
-                <h2 class="text-[13px] font-bold uppercase mb-2">Educação</h2>
-                <p class="text-[13px] font-bold">Ciência da Computação</p>
-                <p class="text-[12px] text-slate-500">CEFET/RJ | 2019 - 2024</p>
+                <h2 class="text-[13px] font-bold uppercase mb-2 text-slate-800">Formação Acadêmica</h2>
+                <p class="text-[13px] font-bold text-slate-800">Bacharelado em Ciência da Computação</p>
+                <p class="text-[12px] text-slate-500">CEFET/RJ | Concluído em 2024</p>
             </section>
             
             <section>
-                <h2 class="text-[13px] font-bold uppercase mb-2">Línguas</h2>
-                <div class="text-[13px] flex gap-4">
+                <h2 class="text-[13px] font-bold uppercase mb-2 text-slate-800">Idiomas</h2>
+                <div class="text-[13px] space-y-0.5 text-slate-700">
                     <p><strong>Português:</strong> Nativo</p>
-                    <p><strong>Inglês:</strong> Avançado</p>
-                    <p><strong>Espanhol:</strong> Médio</p>
+                    <p><strong>Inglês:</strong> Avançado / Fluente</p>
+                    <p><strong>Espanhol:</strong> Intermediário</p>
                 </div>
             </section>
         </div>
 
     </div>
 
+    <!-- BOTÃO IMPRIMIR / PDF -->
     <div class="max-w-[850px] mx-auto mt-6 text-right no-print">
-        <button onclick="window.print()" class="bg-slate-800 text-white px-8 py-2 text-sm font-semibold rounded hover:bg-slate-700">
+        <button onclick="window.print()" class="bg-slate-800 text-white px-8 py-2 text-sm font-semibold rounded hover:bg-slate-700 transition-colors">
             Exportar como PDF
         </button>
     </div>
