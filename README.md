@@ -95,4 +95,71 @@
                 </div>
 
                 <div>
-                    <div
+                    <div class="flex justify-between items-baseline">
+                        <h3 class="text-[15px] font-bold text-slate-800">Estagiário de Análise de Dados</h3>
+                        <span class="text-[13px] text-slate-500 font-medium">Jan/2022 – Ago/2023</span>
+                    </div>
+                    <p class="text-[13px] italic text-slate-500">Grupo OLX, Brasil</p>
+                    <ul class="mt-2 list-disc ml-4 space-y-1.5 text-[13.5px] text-slate-700">
+                        <li><strong>Extração de Dados & Suporte Operacional:</strong> Consulta e manipulação de bases de clientes via SQL para suporte direto às operações de atendimento e CRM.</li>
+                        <li><strong>Documentação de Processos:</strong> Apoio no mapeamento e formalização dos processos internos de extração de dados e critérios de segmentação para os times de negócio.</li>
+                    </ul>
+                </div>
+
+            </div>
+        </section>
+
+        <hr class="my-6 border-slate-300">
+
+        <!-- COMPETÊNCIAS TÉCNICAS -->
+        <section class="mb-8">
+            <h2 class="text-[15px] font-bold text-slate-800 uppercase mb-4">Habilidades Técnicas & Ferramentas</h2>
+            <div class="grid grid-cols-2 gap-y-3 gap-x-8 text-[13.5px]">
+                <div>
+                    <span class="font-bold text-slate-800">Plataformas de CRM & DBM:</span>
+                    <p class="text-slate-600">Salesforce (Data Cloud, Marketing Cloud, Sales Cloud), DBM, Gestão de Bases</p>
+                </div>
+                <div>
+                    <span class="font-bold text-slate-800">Manipulação de Dados & SQL:</span>
+                    <p class="text-slate-600">SQL (Consultas Avançadas, Joins, CTEs, Window Functions), PostgreSQL, Databricks</p>
+                </div>
+                <div>
+                    <span class="font-bold text-slate-800">Análise & Automação:</span>
+                    <p class="text-slate-600">Python (Pandas, NumPy - para extração e análise), Excel / Google Sheets Avançado</p>
+                </div>
+                <div>
+                    <span class="font-bold text-slate-800">Jornadas & Qualidade de Dados:</span>
+                    <p class="text-slate-600">Segmentação de Clientes, Automação de Campanhas, Qualidade/Higienização de Bases, Tableau</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- EDUCAÇÃO E IDIOMAS -->
+        <div class="grid grid-cols-2 gap-6 pt-4 border-t border-slate-300">
+            <section>
+                <h2 class="text-[13px] font-bold uppercase mb-2 text-slate-800">Formação Acadêmica</h2>
+                <p class="text-[13px] font-bold text-slate-800">Bacharelado em Ciência da Computação</p>
+                <p class="text-[12px] text-slate-500">CEFET/RJ | Concluído em 2024</p>
+            </section>
+            
+            <section>
+                <h2 class="text-[13px] font-bold uppercase mb-2 text-slate-800">Idiomas</h2>
+                <div class="text-[13px] space-y-0.5 text-slate-700">
+                    <p><strong>Português:</strong> Nativo</p>
+                    <p><strong>Inglês:</strong> Avançado</p>
+                    <p><strong>Espanhol:</strong> Intermediário</p>
+                </div>
+            </section>
+        </div>
+
+    </div>
+
+    <!-- BOTÃO IMPRIMIR / PDF -->
+    <div class="max-w-[850px] mx-auto mt-6 text-right no-print">
+        <button onclick="window.print()" class="bg-slate-800 text-white px-8 py-2 text-sm font-semibold rounded hover:bg-slate-700 transition-colors">
+            Exportar como PDF
+        </button>
+    </div>
+
+</body>
+</html>
