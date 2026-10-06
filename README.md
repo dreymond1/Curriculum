@@ -38,7 +38,7 @@
         <!-- CABEÇALHO -->
         <header>
             <h1 class="text-[32px] font-bold text-slate-800 leading-none">Andrey Alves</h1>
-            <p class="text-lg text-slate-600 font-semibold mt-2">Pleno Analytics Engineer & Data Analyst | BI, BigQuery & IA</p>
+            <p class="text-lg text-slate-600 font-semibold mt-2">Data Engineer & Data Analyst Pleno | Databricks, PySpark & CRM Analytics</p>
             
             <div class="mt-4 flex flex-wrap gap-x-5 gap-y-2 text-[13px] text-slate-600">
                 <span>E-mail: <a href="mailto:andrey.alves9@gmail.com" class="hover:underline text-slate-800">andrey.alves9@gmail.com</a></span>
@@ -56,7 +56,7 @@
         <section class="mb-8">
             <h2 class="text-[15px] font-bold text-slate-800 uppercase mb-3">Resumo Profissional</h2>
             <p class="text-[14px] leading-relaxed text-slate-700 text-justify">
-                Cientista da Computação e Analista de Dados Pleno com sólida atuação em <strong>Analytics Engineering, Business Intelligence e Otimização de Dados</strong>. Forte domínio em <strong>SQL Avançado (BigQuery)</strong>, modelagem analítica/semântica, governança de KPIs e construção de dashboards de alta performance em <strong>Tableau, Looker e Power BI</strong>. Experiência na condução autônoma de análises diagnósticas, formulação de hipóteses e estruturação de pipelines/automações em Python. Atuação destacada na conexão entre dados analíticos e aplicações de <strong>IA Generativa e Agentes de IA</strong> (serving-ready datasets e features), combinando excelência técnica com Storytelling executivo.
+                Cientista da Computação e Analista/Engenheiro de Dados Pleno com sólida experiência no desenvolvimento de <strong>pipelines de dados (ETL/ELT) em Databricks (PySpark, Spark SQL e Jobs)</strong>. Especialista em <strong>SQL Analítico Avançado (CTEs, Window Functions QUALIFY, MERGE incremental e deduplicação)</strong> para criação de atributos e eventos voltados a plataformas de CRM/CDP (Salesforce, Insider e similares). Atuação destacada na sustentação de fluxos, observabilidade de volumetria, investigação de causa raiz, governança de dados cadastrais (Golden Record/MDM) e otimização de performance e custos em arquiteturas de nuvem.
             </p>
         </section>
 
@@ -68,29 +68,29 @@
 
                 <div>
                     <div class="flex justify-between items-baseline">
-                        <h3 class="text-[15px] font-bold text-slate-800">Analista de Dados Pleno | Estratégia Comercial</h3>
+                        <h3 class="text-[15px] font-bold text-slate-800">Analista de Dados Pleno | Estratégia Comercial & Engenharia</h3>
                         <span class="text-[13px] text-slate-500 font-medium">Jun/2025 – Atual</span>
                     </div>
                     <p class="text-[13px] italic text-slate-500">Grupo OLX, Brasil</p>
                     <ul class="mt-2 list-disc ml-4 space-y-1.5 text-[13.5px] text-slate-700">
-                        <li><strong>SQL Avançado & Performance em BigQuery:</strong> Desenvolvimento e otimização de consultas SQL complexas utilizando CTEs, Window Functions, particionamento e clustering no Data Lake/BigQuery, focando na redução de custos de consulta e ganho de performance.</li>
-                        <li><strong>Modelagem Analítica & Dashboards de BI:</strong> Arquitetura de dashboards dinâmicos em Tableau e Google Sheets/Looker, estabelecendo a camada de métricas executivas (LTV, Churn, Receita) com rigorosa governança.</li>
-                        <li><strong>Análise Diagnóstica & Storytelling:</strong> Formulação de hipóteses, segmentações e avaliação de impacto para direcionamento tático e estratégico das áreas de negócio comercial (Automotivo e Imobiliário).</li>
-                        <li><strong>Automação & Pipelines:</strong> Criação de rotinas em Python e scripts automatizados para alimentação contínua de bases analíticas, reduzindo em 50% o tempo operacional de atualização de dados.</li>
+                        <li><strong>Pipelines em Databricks & Spark SQL:</strong> Desenvolvimento e manutenção de jobs agendados e notebooks em PySpark e Spark SQL para ingestão e transformação de grandes volumes de dados no Data Lake.</li>
+                        <li><strong>SQL Avançado & Operações Incrementais:</strong> Escrita de consultas complexas utilizando CTEs, Window Functions (QUALIFY, ROW_NUMBER) e rotinas de MERGE/upsert incremental para deduplicação e tratamento de divergências.</li>
+                        <li><strong>Automação de Atributos & Métricas:</strong> Construção e automação de fluxos analíticos que geram regras de negócio e eventos operacionais (KPIs de recompra, churn e comportamento de uso), reduzindo em 50% o tempo manual de atualização.</li>
+                        <li><strong>Observabilidade & Qualidade de Dados:</strong> Monitoramento contínuo de volumetria, validação entre visões de origem e destino, além do ajuste de parâmetros para garantia da consistência dos dados.</li>
                     </ul>
                 </div>
 
                 <div>
                     <div class="flex justify-between items-baseline">
-                        <h3 class="text-[15px] font-bold text-slate-800">Analista de Dados Junior | Customer Experience</h3>
+                        <h3 class="text-[15px] font-bold text-slate-800">Analista de Dados Junior | Customer Experience & CRM Analytics</h3>
                         <span class="text-[13px] text-slate-500 font-medium">Set/2023 – Jun/2025</span>
                     </div>
                     <p class="text-[13px] italic text-slate-500">Grupo OLX, Brasil</p>
                     <ul class="mt-2 list-disc ml-4 space-y-1.5 text-[13.5px] text-slate-700">
-                        <li><strong>Modelagem Semântica & Datasets para IA:</strong> Estruturação de tabelas de consumo e serving-ready datasets para suporte a modelos de IA, Machine Learning e Agentes de IA, garantindo a qualidade e rastreabilidade dos dados.</li>
-                        <li><strong>Qualidade, Governança & FinOps de Dados:</strong> Validação e consistência entre diferentes fontes no Data Lake, aplicando testes de dados, regras de qualidade e práticas de governança de indicadores.</li>
-                        <li><strong>BI Avançado & Visualização:</strong> Desenvolvimento e manutenção de dashboards em Tableau, Looker Studio e Power BI, otimizando o tempo de resposta e consulta de relatórios analíticos em até 80%.</li>
-                        <li><strong>Integrações & Versionamento:</strong> Versionamento de soluções analíticas via Git/GitHub, além de integrar modelos de ML via REST APIs e criar fluxos de dados automatizados em nuvem.</li>
+                        <li><strong>Gestão de Atributos de CRM & Salesforce:</strong> Criação e manutenção de relatórios e atributos de clientes (como NPS, comportamento de interação e ciclo de vida) integrados ao Salesforce CRM.</li>
+                        <li><strong>Higienização Cadastral & Governança (MDM):</strong> Tratamento e padronização de dados sensíveis e cadastrais (CPF, e-mail, telefone, tratamento de fuso/timestamps e nulos) garantindo consistência no Data Lake.</li>
+                        <li><strong>Investigação de Incidentes & Sustentação:</strong> Análise de divergências de dados entre origem e destino, atuando na investigação de causa raiz e reprocessamento contínuo de dados operacionais.</li>
+                        <li><strong>Dashboards & Monitoramento:</strong> Construção de painéis de acompanhamento de performance em Tableau e Looker Studio com otimização de até 80% do tempo de execução de rotinas de análise.</li>
                     </ul>
                 </div>
 
@@ -101,8 +101,8 @@
                     </div>
                     <p class="text-[13px] italic text-slate-500">Grupo OLX, Brasil</p>
                     <ul class="mt-2 list-disc ml-4 space-y-1.5 text-[13.5px] text-slate-700">
-                        <li><strong>Alinhamento com Áreas Usuárias:</strong> Condução de reuniões de alinhamento com áreas de negócio para refinamento de requisitos, tradução de regras operacionais e entrega de diagnósticos quantitativos.</li>
-                        <li><strong>Automação em Looker Studio & SQL:</strong> Construção e automação de relatórios analíticos recorrentes, reduzindo o esforço manual da equipe e aumentando a velocidade de geração de insights.</li>
+                        <li><strong>Consultas SQL & Tratamento de Origens:</strong> Extração e análise de dados operacionais via SQL para identificar inconsistências cadastrais e suportar o time de atendimento.</li>
+                        <li><strong>Versionamento & Métodos Ágeis:</strong> Participação ativa em squads ágeis (Scrum/Kanban) utilizando controle de versão com Git (pull requests) e automação de relatórios.</li>
                     </ul>
                 </div>
 
@@ -116,20 +116,20 @@
             <h2 class="text-[15px] font-bold text-slate-800 uppercase mb-4">Habilidades Técnicas & Tecnologias</h2>
             <div class="grid grid-cols-2 gap-y-3 gap-x-8 text-[13.5px]">
                 <div>
-                    <span class="font-bold text-slate-800">SQL & Data Warehousing:</span>
-                    <p class="text-slate-600">SQL Avançado, BigQuery (CTEs, Window Functions, Otimização, Particionamento), Snowflake, PostgreSQL</p>
+                    <span class="font-bold text-slate-800">Engenharia de Dados & Big Data:</span>
+                    <p class="text-slate-600">Databricks (Notebooks/Jobs), Apache Spark (PySpark), Python, ETL/ELT, Pipelines Incrementais</p>
                 </div>
                 <div>
-                    <span class="font-bold text-slate-800">Business Intelligence (BI):</span>
-                    <p class="text-slate-600">Tableau, Looker / Looker Studio, Power BI, Governança de Métricas & Camada Semântica</p>
+                    <span class="font-bold text-slate-800">SQL Avançado & Manipulação:</span>
+                    <p class="text-slate-600">Spark SQL, CTEs, Window Functions (QUALIFY), MERGE/Upsert, Deduplicação, Query Tuning</p>
                 </div>
                 <div>
-                    <span class="font-bold text-slate-800">Analytics Engineering & Nuvem:</span>
-                    <p class="text-slate-600">Python (Pandas, NumPy), dbt / Dataform, Git/GitHub, Composer, Docker, AWS, APIs REST</p>
+                    <span class="font-bold text-slate-800">CRM, CDP & Observabilidade:</span>
+                    <p class="text-slate-600">Salesforce, Integração de Eventos/Atributos de CRM, Validação de Volumetria, Golden Record (MDM)</p>
                 </div>
                 <div>
-                    <span class="font-bold text-slate-800">IA & Modelagem de Dados:</span>
-                    <p class="text-slate-600">Serving-Ready Datasets para Agentes de IA, Feature Engineering, Análise Diagnóstica, Storytelling</p>
+                    <span class="font-bold text-slate-800">Ferramentas & Metodologias:</span>
+                    <p class="text-slate-600">Git/GitHub (Pull Requests), Azure DevOps, Scrum/Kanban, REST APIs, Tableau, Databricks SQL</p>
                 </div>
             </div>
         </section>
@@ -146,7 +146,7 @@
                 <h2 class="text-[13px] font-bold uppercase mb-2 text-slate-800">Idiomas</h2>
                 <div class="text-[13px] space-y-0.5 text-slate-700">
                     <p><strong>Português:</strong> Nativo</p>
-                    <p><strong>Inglês:</strong> Avançado / Fluente</p>
+                    <p><strong>Inglês:</strong> Avançado</p>
                     <p><strong>Espanhol:</strong> Intermediário</p>
                 </div>
             </section>
