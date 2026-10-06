@@ -35,10 +35,10 @@
 
     <div class="max-w-[850px] mx-auto bg-white p-10 shadow-sm content-box">
         
-        <!-- CABEÇALHO (Otimizado sem emojis para ATS) -->
+        <!-- CABEÇALHO -->
         <header>
             <h1 class="text-[32px] font-bold text-slate-800 leading-none">Andrey Alves</h1>
-            <p class="text-lg text-slate-600 font-semibold mt-2">Data Analyst & Data Engineer</p>
+            <p class="text-lg text-slate-600 font-semibold mt-2">Analista de Dados Senior / Pleno | Especialista em BI & SQL</p>
             
             <div class="mt-4 flex flex-wrap gap-x-5 gap-y-2 text-[13px] text-slate-600">
                 <span>E-mail: <a href="mailto:andrey.alves9@gmail.com" class="hover:underline text-slate-800">andrey.alves9@gmail.com</a></span>
@@ -56,7 +56,7 @@
         <section class="mb-8">
             <h2 class="text-[15px] font-bold text-slate-800 uppercase mb-3">Resumo Profissional</h2>
             <p class="text-[14px] leading-relaxed text-slate-700 text-justify">
-                Cientista da Computação e Analista de Dados Pleno com sólida atuação em Engenharia de Dados, Business Intelligence e Inteligência Artificial. Especialista na automação de pipelines analíticos e extração de valor de grandes volumes de dados (Data Lake), unindo o rigor técnico de Python e SQL à visão estratégica de negócios. Histórico comprovado na otimização de processos operacionais em até 80%, arquitetura de dashboards executivos (Tableau/Looker) e desenvolvimento de aplicações de IA Generativa (LLMs, RAG e agentes autônomos) voltadas para suporte à tomada de decisão estratégica.
+                Cientista da Computação e Analista de Dados Pleno com sólida experiência em <strong>SQL Avançado (Snowflake, PostgreSQL)</strong>, <strong>Power BI (DAX, Modelagem de Dados)</strong> e inteligência de negócios. Especialista no <strong>levantamento de requisitos junto às áreas de negócio</strong> e stakeholders, traduzindo necessidades operacionais e estratégicas em dashboards de alto impacto e soluções analíticas robustas. Atuação destacada em geração de insights para tomada de decisão crítica, governança de dados, automação de rotinas em Python e otimização de processos em até 80%.
             </p>
         </section>
 
@@ -73,10 +73,10 @@
                     </div>
                     <p class="text-[13px] italic text-slate-500">Grupo OLX, Brasil</p>
                     <ul class="mt-2 list-disc ml-4 space-y-1.5 text-[13.5px] text-slate-700">
-                        <li><strong>Automação & Processos:</strong> Automatizei rotinas e processos operacionais críticos utilizando Python e SQL, eliminando atualizações manuais e reduzindo em 50% o tempo de execução das atividades da equipe.</li>
-                        <li><strong>Análise Estratégica & Business Intelligence:</strong> Liderei o acompanhamento dos principais KPIs comerciais (receita, churn, LTV e performance de produto), estruturando visões analíticas para a alta gestão.</li>
-                        <li><strong>Data Visualization & Performance:</strong> Desenvolvi e otimizei dashboards executivos em Tableau e Google Sheets, identificando e corrigindo gargalos de performance em bases de dados complexas.</li>
-                        <li><strong>Inteligência de Mercado:</strong> Conduzi análises preditivas e comportamentais nos setores Automotivo e Imobiliário, gerando insights acionáveis para direcionamento de estratégias de vendas e posicionamento.</li>
+                        <li><strong>Levantamento de Requisitos & Parceria com Negócio:</strong> Atuação próxima aos gestores e áreas comerciais, conduzindo o levantamento de necessidades e traduzindo desafios de negócio em soluções de Business Intelligence.</li>
+                        <li><strong>SQL Avançado & Data Warehouse:</strong> Criação e otimização de queries complexas em SQL (ambientes Snowflake e Data Lakes) para extração, preparação e análise de dados de alto volume.</li>
+                        <li><strong>Power BI & Modelagem de Dados:</strong> Desenvolvimento de dashboards dinâmicos e relatórios executivos em Power BI e Tableau, aplicando modelagem de dados eficiente e cálculos avançados em DAX para acompanhamento de KPIs estratégicos (receita, churn e LTV).</li>
+                        <li><strong>Geração de Insights & Automação:</strong> Identificação de padrões de mercado e melhorias operacionais, além de automatizar rotinas analíticas em Python com ganho de 50% de produtividade na equipe.</li>
                     </ul>
                 </div>
 
@@ -87,11 +87,10 @@
                     </div>
                     <p class="text-[13px] italic text-slate-500">Grupo OLX, Brasil</p>
                     <ul class="mt-2 list-disc ml-4 space-y-1.5 text-[13.5px] text-slate-700">
-                        <li><strong>Machine Learning & IA Generativa:</strong> Implementei modelos preditivos e de análise de sentimentos baseados em Redes Neurais e LLMs para classificação automatizada de feedbacks, otimizando o tempo de análise em até 80%.</li>
-                        <li><strong>Engenharia de Analytics & APIs:</strong> Desenvolvi e disponibilizei REST APIs em ambiente de nuvem (AWS) para integração de modelos de ML com sistemas operacionais internos.</li>
-                        <li><strong>Data Lake & Análise Exploratória:</strong> Analisei grandes volumes de dados não estruturados no Data Lake, identificando padrões, anomalias de produto e gargalos de eficiência operacional.</li>
-                        <li><strong>Dashboards & CRM Analytics:</strong> Estruturei painéis dinâmicos no Tableau, Looker Studio e Salesforce, unificando métricas de CX e facilitando a tomada de decisão entre diferentes stakeholders.</li>
-                        <li><strong>Análise Estatística Avançada:</strong> Apliquei modelagem estatística (regressão, correlação e detecção de outliers) para garantir maior acurácia nas projeções e diagnósticos operacionais.</li>
+                        <li><strong>Dashboards Executivos em Power BI:</strong> Arquitetura de soluções em Power BI (Modelagem de Dados e DAX) e Looker Studio para monitoramento contínuo de KPIs de experiência do cliente e suporte à tomada de decisão.</li>
+                        <li><strong>Governança e Qualidade de Dados:</strong> Aplicação de práticas de validação, qualidade de dados e detecção de anomalias para garantir a confiabilidade dos relatórios e bases analíticas operacionais.</li>
+                        <li><strong>Análise de Dados Avançada & SQL:</strong> Manipulação e consultas em SQL sobre grandes volumes de dados para suporte a diagnósticos quantitativos, reduzindo o tempo de análise em até 80%.</li>
+                        <li><strong>Modelos Preditivos & Machine Learning:</strong> Desenvolvimento de modelos preditivos e análise de sentimentos via Python e APIs REST para automação de triagem de feedbacks.</li>
                     </ul>
                 </div>
 
@@ -102,9 +101,8 @@
                     </div>
                     <p class="text-[13px] italic text-slate-500">Grupo OLX, Brasil</p>
                     <ul class="mt-2 list-disc ml-4 space-y-1.5 text-[13.5px] text-slate-700">
-                        <li><strong>Automação de Relatórios:</strong> Automatizei a geração de relatórios periódicos no Looker Studio e Google Sheets via queries SQL, garantindo atualização em tempo real e maior ganho de eficiência.</li>
-                        <li><strong>Suporte Operacional & Insights:</strong> Realizei análises quantitativas e qualitativas para suporte direto às operações de atendimento, identificando causas raízes de inconsistências.</li>
-                        <li><strong>Benchmarking & Mercado:</strong> Conduzi o monitoramento contínuo de concorrência e tendências de mercado para respaldar o planejamento estratégico de melhorias do produto.</li>
+                        <li><strong>Suporte às Áreas de Negócio:</strong> Mapeamento de demandas da equipe de atendimento e criação de relatórios analíticos em SQL e ferramentas de BI.</li>
+                        <li><strong>Geração de Insights Acionáveis:</strong> Realização de análises quantitativas para diagnóstico de problemas de produto e identificação de oportunidades de melhoria contínua.</li>
                     </ul>
                 </div>
 
@@ -113,25 +111,25 @@
 
         <hr class="my-6 border-slate-300">
 
-        <!-- COMPETÊNCIAS TÉCNICAS (Agrupadas e ricas em palavras-chave para ATS) -->
+        <!-- COMPETÊNCIAS TÉCNICAS -->
         <section class="mb-8">
-            <h2 class="text-[15px] font-bold text-slate-800 uppercase mb-4">Habilidades Técnicas & Tecnologias</h2>
+            <h2 class="text-[15px] font-bold text-slate-800 uppercase mb-4">Habilidades Técnicas & Competências</h2>
             <div class="grid grid-cols-2 gap-y-3 gap-x-8 text-[13.5px]">
                 <div>
-                    <span class="font-bold text-slate-800">Linguagens & Scripts:</span>
-                    <p class="text-slate-600">Python (Pandas, NumPy, Scikit-learn), SQL, JavaScript, HTML/CSS</p>
+                    <span class="font-bold text-slate-800">Business Intelligence & BI:</span>
+                    <p class="text-slate-600">Power BI (DAX, Modelagem de Dados), Tableau, Looker Studio</p>
                 </div>
                 <div>
-                    <span class="font-bold text-slate-800">Engenharia de Dados & Cloud:</span>
-                    <p class="text-slate-600">ETL/ELT, Apache Spark, Airflow, Docker, Kafka, AWS, Git/GitHub</p>
+                    <span class="font-bold text-slate-800">Bancos de Dados & SQL:</span>
+                    <p class="text-slate-600">SQL Avançado, Snowflake, PostgreSQL, Data Warehouse, Data Lake</p>
                 </div>
                 <div>
-                    <span class="font-bold text-slate-800">Data Visualization & BI:</span>
-                    <p class="text-slate-600">Tableau, Looker Studio (Data Studio), Google Sheets Avançado, Salesforce</p>
+                    <span class="font-bold text-slate-800">Análise de Negócios & Governança:</span>
+                    <p class="text-slate-600">Levantamento de Requisitos, Governança de Dados, Qualidade de Dados, KPIs</p>
                 </div>
                 <div>
-                    <span class="font-bold text-slate-800">Inteligência Artificial & Machine Learning:</span>
-                    <p class="text-slate-600">LLMs, Arquiteturas RAG, Agentes Autônomos, Redes Neurais, Streamlit, REST APIs</p>
+                    <span class="font-bold text-slate-800">Programação & Automação:</span>
+                    <p class="text-slate-600">Python (Pandas, NumPy, Scikit-learn), ETL, Git, Docker, REST APIs</p>
                 </div>
             </div>
         </section>
@@ -148,7 +146,7 @@
                 <h2 class="text-[13px] font-bold uppercase mb-2 text-slate-800">Idiomas</h2>
                 <div class="text-[13px] space-y-0.5 text-slate-700">
                     <p><strong>Português:</strong> Nativo</p>
-                    <p><strong>Inglês:</strong> Avançado / Fluente</p>
+                    <p><strong>Inglês:</strong> Avançado </p>
                     <p><strong>Espanhol:</strong> Intermediário</p>
                 </div>
             </section>
