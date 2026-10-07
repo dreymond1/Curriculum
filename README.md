@@ -38,7 +38,7 @@
         <!-- CABEÇALHO -->
         <header>
             <h1 class="text-[32px] font-bold text-slate-800 leading-none">Andrey Alves</h1>
-            <p class="text-lg text-slate-600 font-semibold mt-2">Analista de CRM & DBM | Salesforce (Data Cloud, Marketing Cloud) & SQL</p>
+            <p class="text-lg text-slate-600 font-semibold mt-2">Analista de BI & Dados Pleno | Power BI (DAX/DirectQuery), Databricks & SQL</p>
             
             <div class="mt-4 flex flex-wrap gap-x-5 gap-y-2 text-[13px] text-slate-600">
                 <span>E-mail: <a href="mailto:andrey.alves9@gmail.com" class="hover:underline text-slate-800">andrey.alves9@gmail.com</a></span>
@@ -56,7 +56,7 @@
         <section class="mb-8">
             <h2 class="text-[15px] font-bold text-slate-800 uppercase mb-3">Resumo Profissional</h2>
             <p class="text-[14px] leading-relaxed text-slate-700 text-justify">
-                Cientista da Computação e Analista de Dados Pleno com sólida experiência no ecossistema de <strong>CRM, DBM (Database Marketing) e análise de bases de clientes</strong>. Especialista no uso do ecossistema <strong>Salesforce (Data Cloud, Marketing Cloud, Sales Cloud)</strong> e <strong>SQL avançado</strong> para desenvolvimento de segmentações estratégicas, extração de dados e automação de jornadas de relacionamento. Atuação colaborativa em parceria com times de CRM, Marketing, Produto e Dados para evolução de campanhas e personalização da comunicação, unindo rigor analítico em <strong>Python e Excel</strong> com a garantia da qualidade, consistência e governança das informações.
+                Cientista da Computação e Analista de Dados Pleno com amplo domínio em <strong>Power BI (DAX avançado, modelagem de dados complexa e DirectQuery)</strong>, <strong>SQL</strong> e ecossistemas analíticos em <strong>Databricks</strong>. Experiência na construção e consulta de dados organizados em arquitetura de camadas (<strong>Bronze, Silver e Gold</strong>), garantindo governança, alta performance e <strong>qualidade de dados</strong> por meio da criação de regras de validação, tratamento de exceções e investigação de inconsistências. Habilidade comprovada em traduzir regras de negócio complexas em dashboards executivos e aplicações analíticas interativas desenvolvidas em <strong>Python, PySpark e Streamlit</strong>.
             </p>
         </section>
 
@@ -68,29 +68,29 @@
 
                 <div>
                     <div class="flex justify-between items-baseline">
-                        <h3 class="text-[15px] font-bold text-slate-800">Analista de Dados Pleno | Estratégia Comercial & CRM</h3>
+                        <h3 class="text-[15px] font-bold text-slate-800">Analista de Dados Pleno | BI & Estratégia Comercial</h3>
                         <span class="text-[13px] text-slate-500 font-medium">Jun/2025 – Atual</span>
                     </div>
                     <p class="text-[13px] italic text-slate-500">Grupo OLX, Brasil</p>
                     <ul class="mt-2 list-disc ml-4 space-y-1.5 text-[13.5px] text-slate-700">
-                        <li><strong>Segmentação de Clientes & Ações Comerciais:</strong> Desenvolvimento de públicas e segmentações complexas para campanhas de CRM e alavancagem de vendas, utilizando SQL avançado e filtros comportamentais.</li>
-                        <li><strong>Análise de Bases & Extração de Dados:</strong> Condução de consultas e cruzamentos de dados volumosos para atendimento de demandas de negócio e mensuração de performance de campanhas.</li>
-                        <li><strong>Acompanhamento de Indicadores (KPIs):</strong> Monitoramento contínuo dos resultados de campanhas e conversão de canais, identificando oportunidades de otimização no funil de vendas.</li>
-                        <li><strong>Parceria Multidisciplinar & Documentação:</strong> Atuação próxima às equipes de Marketing, Produto e Dados para viabilizar iniciativas de personalização, registrando regras de negócio e critérios de segmentação.</li>
+                        <li><strong>Power BI Avançado & DirectQuery:</strong> Desenvolvimento e otimização de soluções em Power BI aplicando modelagem dimensional (Star Schema), fórmulas DAX avançadas e DirectQuery para acesso em tempo real a grandes volumes de dados.</li>
+                        <li><strong>Databricks & Arquitetura Medallion:</strong> Consulta e manipulação de pipelines e relatórios consumindo dados organizados nas camadas Bronze (raw), Silver (trada/limpa) e Gold (agregada/negócio) no Databricks.</li>
+                        <li><strong>Tradução de Regras de Negócio:</strong> Mapeamento direto de necessidades com gestores comerciais para transformar regras de negócio complexas em indicadores de performance (KPIs) confiáveis.</li>
+                        <li><strong>Validação & Automação com Python/PySpark:</strong> Criação de scripts em Python e PySpark para tratamento automatizado de dados e validação de inconsistências, otimizando o tempo de execução de consultas em 50%.</li>
                     </ul>
                 </div>
 
                 <div>
                     <div class="flex justify-between items-baseline">
-                        <h3 class="text-[15px] font-bold text-slate-800">Analista de Dados Junior | Customer Experience & DBM</h3>
+                        <h3 class="text-[15px] font-bold text-slate-800">Analista de Dados Junior | Qualidade de Dados & Analytics</h3>
                         <span class="text-[13px] text-slate-500 font-medium">Set/2023 – Jun/2025</span>
                     </div>
                     <p class="text-[13px] italic text-slate-500">Grupo OLX, Brasil</p>
                     <ul class="mt-2 list-disc ml-4 space-y-1.5 text-[13.5px] text-slate-700">
-                        <li><strong>Gestão & Qualidade de Bases no Salesforce:</strong> Manutenção e higienização das bases de dados no ecossistema Salesforce (Data Cloud / Marketing Cloud), garantindo consistência e integridade das informações cadastrais.</li>
-                        <li><strong>Automação de Jornadas & Comunicação:</strong> Apoio na estruturação e automação de réguas de comunicação personalizadas, aplicando testes de dados e regras de supressão/elegibilidade.</li>
-                        <li><strong>Análise de Dados com Python & Excel Avançado:</strong> Automação de extrações e relatórios analíticos em Python (Pandas) e Excel/Google Sheets, otimizando em até 80% o tempo operacional de rotinas da área.</li>
-                        <li><strong>Dashboards de Acompanhamento:</strong> Construção de visões e painéis analíticos no Tableau e Looker Studio para suporte às decisões táticas de CRM.</li>
+                        <li><strong>Qualidade de Dados & Governança:</strong> Implementação de rotinas de qualidade de dados com criação de regras de validação, detecção de exceções e investigação contínua de divergências entre bases operacionais.</li>
+                        <li><strong>Aplicações em Streamlit & Python:</strong> Desenvolvimento de ferramentas e webapps internos com Streamlit para visualização rápida e prototipagem de dados para apoio às áreas de suporte e produto.</li>
+                        <li><strong>Consultas SQL Avançadas:</strong> Manipulação e validação de dados utilizando SQL (Window Functions, CTEs, Joins complexos) sobre Data Lakes e bancos relacionais.</li>
+                        <li><strong>Dashboards Executivos:</strong> Construção de painéis no Power BI e Tableau para monitoramento de métricas operacionais, reduzindo o tempo de identificação de falhas em até 80%.</li>
                     </ul>
                 </div>
 
@@ -101,8 +101,8 @@
                     </div>
                     <p class="text-[13px] italic text-slate-500">Grupo OLX, Brasil</p>
                     <ul class="mt-2 list-disc ml-4 space-y-1.5 text-[13.5px] text-slate-700">
-                        <li><strong>Extração de Dados & Suporte Operacional:</strong> Consulta e manipulação de bases de clientes via SQL para suporte direto às operações de atendimento e CRM.</li>
-                        <li><strong>Documentação de Processos:</strong> Apoio no mapeamento e formalização dos processos internos de extração de dados e critérios de segmentação para os times de negócio.</li>
+                        <li><strong>Tratamento de Dados & Suporte:</strong> Extração, limpeza e cruzamento de dados via SQL e relatórios em Power BI/Google Sheets para identificação de inconsistências de cadastro.</li>
+                        <li><strong>Acompanhamento de Processos:</strong> Apoio na documentação de regras de validação e validação quantitativa de indicadores operacionais da área.</li>
                     </ul>
                 </div>
 
@@ -113,23 +113,23 @@
 
         <!-- COMPETÊNCIAS TÉCNICAS -->
         <section class="mb-8">
-            <h2 class="text-[15px] font-bold text-slate-800 uppercase mb-4">Habilidades Técnicas & Ferramentas</h2>
+            <h2 class="text-[15px] font-bold text-slate-800 uppercase mb-4">Habilidades Técnicas & Tecnologias</h2>
             <div class="grid grid-cols-2 gap-y-3 gap-x-8 text-[13.5px]">
                 <div>
-                    <span class="font-bold text-slate-800">Plataformas de CRM & DBM:</span>
-                    <p class="text-slate-600">Salesforce (Data Cloud, Marketing Cloud, Sales Cloud), DBM, Gestão de Bases</p>
+                    <span class="font-bold text-slate-800">Power BI & BI Avançado:</span>
+                    <p class="text-slate-600">Power BI (DAX Avançado, Modelagem de Dados, DirectQuery, Performance Tuning), Tableau</p>
                 </div>
                 <div>
-                    <span class="font-bold text-slate-800">Manipulação de Dados & SQL:</span>
-                    <p class="text-slate-600">SQL (Consultas Avançadas, Joins, CTEs, Window Functions), PostgreSQL, Databricks</p>
+                    <span class="font-bold text-slate-800">Databricks & Arquitetura de Dados:</span>
+                    <p class="text-slate-600">Databricks, Arquitetura Medallion (Bronze, Silver, Gold), Data Lakes, Data Warehouse</p>
                 </div>
                 <div>
-                    <span class="font-bold text-slate-800">Análise & Automação:</span>
-                    <p class="text-slate-600">Python (Pandas, NumPy - para extração e análise), Excel / Google Sheets Avançado</p>
+                    <span class="font-bold text-slate-800">SQL & Qualidade de Dados:</span>
+                    <p class="text-slate-600">SQL Avançado (Manipulação e Validação), Regras de Qualidade de Dados, Tratamento de Exceções</p>
                 </div>
                 <div>
-                    <span class="font-bold text-slate-800">Jornadas & Qualidade de Dados:</span>
-                    <p class="text-slate-600">Segmentação de Clientes, Automação de Campanhas, Qualidade/Higienização de Bases, Tableau</p>
+                    <span class="font-bold text-slate-800">Linguagens & Aplicações:</span>
+                    <p class="text-slate-600">Python, PySpark, Streamlit (Aplicações de Dados), Git/GitHub, Regras de Negócio</p>
                 </div>
             </div>
         </section>
