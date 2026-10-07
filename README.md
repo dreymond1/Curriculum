@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
@@ -38,7 +37,7 @@
         <!-- CABEÇALHO -->
         <header>
             <h1 class="text-[32px] font-bold text-slate-800 leading-none">Andrey Alves</h1>
-            <p class="text-lg text-slate-600 font-semibold mt-2">Analista de Dados & CRM Analytics Pleno | Databricks, BigQuery & BI</p>
+            <p class="text-lg text-slate-600 font-semibold mt-2">Analista de BI & Analytics Pleno | Dataviz, Figma, Databricks & IA</p>
             
             <div class="mt-4 flex flex-wrap gap-x-5 gap-y-2 text-[13px] text-slate-600">
                 <span>E-mail: <a href="mailto:andrey.alves9@gmail.com" class="hover:underline text-slate-800">andrey.alves9@gmail.com</a></span>
@@ -56,7 +55,7 @@
         <section class="mb-8">
             <h2 class="text-[15px] font-bold text-slate-800 uppercase mb-3">Resumo Profissional</h2>
             <p class="text-[14px] leading-relaxed text-slate-700 text-justify">
-                Cientista da Computação e Analista de Dados Pleno com mais de 3 anos de experiência em ambiente corporativo B2C de alto volume, atuando com análise de <strong>Funil de Vendas/Marketing, CRM Analytics e Business Intelligence</strong>. Especialista em <strong>SQL Avançado (CTEs, Window Functions, Joins complexos)</strong> em plataformas analíticas como <strong>Databricks e BigQuery</strong>. Domínio de <strong>Estatística Aplicada (Testes de Hipótese, Significância, Testes A/B e Grupos de Controle)</strong>, manipulação de dados com <strong>Python (Pandas, NumPy)</strong> e publicação autônoma de dashboards em <strong>Power BI, Tableau e Looker Studio</strong>. Forte habilidade na documentação de glossários de métricas e tradução de dados em decisões acionáveis para times de negócio.
+                Cientista da Computação e Analista de BI/Dados Pleno com sólida experiência no <strong>levantamento de requisitos com áreas de negócio</strong> e construção de soluções analíticas funcionais. Especialista na criação de dashboards executivos em <strong>Tableau, Power BI e Looker Studio</strong>, aplicando boas práticas de <strong>Dataviz, UX/UI e prototipagem no Figma</strong>. Forte domínio de <strong>SQL e modelagem de dados</strong>, com atuação destacada em <strong>Databricks</strong> para preparação e consulta de grandes volumes. Atuação inovadora incorporando <strong>Inteligência Artificial Generativa e assistentes/agentes de IA</strong> para automação do desenvolvimento analítico e geração acelerada de insights.
             </p>
         </section>
 
@@ -68,29 +67,29 @@
 
                 <div>
                     <div class="flex justify-between items-baseline">
-                        <h3 class="text-[15px] font-bold text-slate-800">Analista de Dados Pleno | Estratégia Comercial & Funil</h3>
+                        <h3 class="text-[15px] font-bold text-slate-800">Analista de Dados & BI Pleno | Estratégia Comercial</h3>
                         <span class="text-[13px] text-slate-500 font-medium">Jun/2025 – Atual</span>
                     </div>
-                    <p class="text-[13px] italic text-slate-500">Grupo OLX, Brasil (Ambiente B2C de Alto Volume)</p>
+                    <p class="text-[13px] italic text-slate-500">Grupo OLX, Brasil</p>
                     <ul class="mt-2 list-disc ml-4 space-y-1.5 text-[13.5px] text-slate-700">
-                        <li><strong>Análise de Funil & Atribuição:</strong> Mapeamento do funil de vendas e conversão de marketing, definindo etapas, modelos de atribuição, safras e análises de cohort para identificação de gargalos em grandes volumes de transações.</li>
-                        <li><strong>SQL Avançado em Databricks/BigQuery:</strong> Desenvolvimento e otimização de consultas SQL altamente complexas (CTEs, Window Functions, auditoria de dados) para extração de dados e geração de insights operacionais.</li>
-                        <li><strong>Dashboards em Power BI & Tableau:</strong> Autonomia na modelagem, construção e publicação de painéis de performance comercial e eficiência de canais para suporte direto à tomada de decisão executiva.</li>
-                        <li><strong>Automação com Python:</strong> Criação de rotinas em Python (Pandas/NumPy) para automação de extrações e relatórios recorrentes, reduzindo em 50% o tempo de processamento manual da equipe.</li>
+                        <li><strong>Levantamento de Requisitos & Parceria com Negócio:</strong> Mapeamento contínuo de necessidades junto a gestores comerciais, traduzindo perguntas de negócio complexas em indicadores (KPIs) e especificações analíticas claras.</li>
+                        <li><strong>Dataviz & Prototipagem no Figma:</strong> Criação de wireframes e protótipos navegáveis no Figma antes do desenvolvimento, garantindo alta usabilidade (UX/UI) na entrega de dashboards no Tableau e Power BI.</li>
+                        <li><strong>Consulta & Preparação em Databricks:</strong> Utilização do Databricks e SQL avançado para exploração, tratamento e modelagem dimensional de grandes volumes de dados para suporte às soluções de BI.</li>
+                        <li><strong>Aceleração com IA Generativa:</strong> Implementação de fluxos apoiados por ferramentas de IA (LLMs e agentes) para automação na escrita de consultas SQL, documentação de painéis e interpretação rápida de dados.</li>
                     </ul>
                 </div>
 
                 <div>
                     <div class="flex justify-between items-baseline">
-                        <h3 class="text-[15px] font-bold text-slate-800">Analista de Dados Junior | Customer Experience & CRM Analytics</h3>
+                        <h3 class="text-[15px] font-bold text-slate-800">Analista de Dados Junior | Customer Experience & BI</h3>
                         <span class="text-[13px] text-slate-500 font-medium">Set/2023 – Jun/2025</span>
                     </div>
-                    <p class="text-[13px] italic text-slate-500">Grupo OLX, Brasil (Ambiente B2C de Alto Volume)</p>
+                    <p class="text-[13px] italic text-slate-500">Grupo OLX, Brasil</p>
                     <ul class="mt-2 list-disc ml-4 space-y-1.5 text-[13.5px] text-slate-700">
-                        <li><strong>Estatística Aplicada & Experimentos A/B:</strong> Planejamento e validação de testes A/B, grupos de controle e testes de hipóteses estatísticas (análise de variância e significância) para otimização de jornadas de clientes e mensagens de CRM.</li>
-                        <li><strong>Consultas em Plataformas de CRM & Data Lakes:</strong> Integração e análise de dados no Salesforce CRM e Databricks para avaliação de comportamento do usuário, retenção e churn.</li>
-                        <li><strong>Modelagem & Looker Studio:</strong> Construção de relatórios analíticos dinâmicos no Looker Studio e Tableau com otimização de até 80% no tempo de consulta de bases volumosas.</li>
-                        <li><strong>Documentação de Métricas:</strong> Elaboração de documentações funcionais, dicionários de dados e glossários do funil para padronização de conceitos entre áreas analíticas e de negócio.</li>
+                        <li><strong>Construção de Dashboards & UX:</strong> Arquitetura e desenvolvimento de painéis de acompanhamento no Tableau, Looker Studio e Power BI, otimizando em até 80% o tempo de análise das áreas usuárias através de visualizações intuitivas.</li>
+                        <li><strong>Modelagem de Dados & SQL:</strong> Estruturação de consultas SQL (CTEs, Window Functions, Joins complexos) e tabelas agregadas para alimentação de relatórios de alta performance.</li>
+                        <li><strong>Prototipagem de Soluções com IA:</strong> Aplicação de IA Generativa para análise automatizada de sentimentos e classificação de dados não estruturados de usuários, integrando visões analíticas aos dashboards de CX.</li>
+                        <li><strong>Garantia de Qualidade & Interação com Usuários:</strong> Condução de testes de aceitação e validações de dados junto aos stakeholders para garantir a aderência e confiabilidade dos painéis publicados.</li>
                     </ul>
                 </div>
 
@@ -101,8 +100,8 @@
                     </div>
                     <p class="text-[13px] italic text-slate-500">Grupo OLX, Brasil</p>
                     <ul class="mt-2 list-disc ml-4 space-y-1.5 text-[13.5px] text-slate-700">
-                        <li><strong>Extração & Análise Quantitativa:</strong> Desenvolvimento de queries em SQL para extração de dados e suporte a diagnósticos quantitativos sobre interações de clientes.</li>
-                        <li><strong>Automação de Relatórios:</strong> Construção e manutenção de painéis gerenciais no Google Sheets e Looker Studio para monitoramento diário de metas.</li>
+                        <li><strong>Suporte a BI & Relatórios:</strong> Apoio no levantamento de demandas do time de atendimento, criando relatórios e visões analíticas operacionais no Looker Studio e Google Sheets via SQL.</li>
+                        <li><strong>Documentação de Regras:</strong> Mapeamento das definições de métricas e suporte na elaboração de leiautes para apresentação de dados a clientes internos.</li>
                     </ul>
                 </div>
 
@@ -113,23 +112,23 @@
 
         <!-- COMPETÊNCIAS TÉCNICAS -->
         <section class="mb-8">
-            <h2 class="text-[15px] font-bold text-slate-800 uppercase mb-4">Habilidades Técnicas & Métodos</h2>
+            <h2 class="text-[15px] font-bold text-slate-800 uppercase mb-4">Habilidades Técnicas & Tecnologias</h2>
             <div class="grid grid-cols-2 gap-y-3 gap-x-8 text-[13.5px]">
                 <div>
-                    <span class="font-bold text-slate-800">SQL & Plataformas Analíticas:</span>
-                    <p class="text-slate-600">SQL Avançado (CTEs, Window Functions, Otimização, Auditoria), Databricks, BigQuery, Synapse, Salesforce CRM</p>
+                    <span class="font-bold text-slate-800">Business Intelligence & Dataviz:</span>
+                    <p class="text-slate-600">Tableau, Power BI, Looker Studio, Princípios de Dataviz e UX/UI para Dashboards</p>
                 </div>
                 <div>
-                    <span class="font-bold text-slate-800">Estatística & Métodos Analíticos:</span>
-                    <p class="text-slate-600">Testes A/B, Grupos de Controle, Testes de Hipótese, Significância, Análise de Funil, Cohort, Safras e Atribuição</p>
+                    <span class="font-bold text-slate-800">Prototipagem & Negócios:</span>
+                    <p class="text-slate-600">Figma (Wireframes e Protótipos), Levantamento de Requisitos, Mapeamento de KPIs</p>
                 </div>
                 <div>
-                    <span class="font-bold text-slate-800">Business Intelligence & BI:</span>
-                    <p class="text-slate-600">Power BI, Tableau, Looker Studio (Modelagem, Publicação e Performance Tuning)</p>
+                    <span class="font-bold text-slate-800">Engenharia de Dados & SQL:</span>
+                    <p class="text-slate-600">SQL Avançado (CTEs, Window Functions), Databricks (Exploração e Preparação), Modelagem de Dados</p>
                 </div>
                 <div>
-                    <span class="font-bold text-slate-800">Programação & Documentação:</span>
-                    <p class="text-slate-600">Python (Pandas, NumPy, Scikit-learn), Automação de Extrações, Git, Documentação de Glossários e Métricas</p>
+                    <span class="font-bold text-slate-800">IA Generativa & Automação:</span>
+                    <p class="text-slate-600">Uso de IA / Agentes para Análise de Dados, Python (Pandas), Streamlit, Git, Métodos Ágeis</p>
                 </div>
             </div>
         </section>
