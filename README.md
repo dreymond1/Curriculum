@@ -38,7 +38,7 @@
         <!-- CABEÇALHO -->
         <header>
             <h1 class="text-[32px] font-bold text-slate-800 leading-none">Andrey Alves</h1>
-            <p class="text-lg text-slate-600 font-semibold mt-2">Analista de BI & Dados Pleno | Power BI (DAX/DirectQuery), Databricks & SQL</p>
+            <p class="text-lg text-slate-600 font-semibold mt-2">Data Engineer Pleno | Cloud (AWS, GCP, Azure), Spark & Pipelines ETL/ELT</p>
             
             <div class="mt-4 flex flex-wrap gap-x-5 gap-y-2 text-[13px] text-slate-600">
                 <span>E-mail: <a href="mailto:andrey.alves9@gmail.com" class="hover:underline text-slate-800">andrey.alves9@gmail.com</a></span>
@@ -56,7 +56,7 @@
         <section class="mb-8">
             <h2 class="text-[15px] font-bold text-slate-800 uppercase mb-3">Resumo Profissional</h2>
             <p class="text-[14px] leading-relaxed text-slate-700 text-justify">
-                Cientista da Computação e Analista de Dados Pleno com amplo domínio em <strong>Power BI (DAX avançado, modelagem de dados complexa e DirectQuery)</strong>, <strong>SQL</strong> e ecossistemas analíticos em <strong>Databricks</strong>. Experiência na construção e consulta de dados organizados em arquitetura de camadas (<strong>Bronze, Silver e Gold</strong>), garantindo governança, alta performance e <strong>qualidade de dados</strong> por meio da criação de regras de validação, tratamento de exceções e investigação de inconsistências. Habilidade comprovada em traduzir regras de negócio complexas em dashboards executivos e aplicações analíticas interativas desenvolvidas em <strong>Python, PySpark e Streamlit</strong>.
+                Engenheiro e Analista de Dados Pleno com graduação em <strong>Ciência da Computação (CEFET/RJ)</strong> e ampla experiência na construção, automação e otimização de pipelines de dados (<strong>ETL/ELT</strong>). Sólidos conhecimentos em programação orientada a objetos com <strong>Python, SQL avançado e processamento distribuído (Apache Spark, Kafka)</strong>. Atuação com arquiteturas em nuvem (<strong>AWS, GCP e Azure</strong>), orquestração de dados via <strong>Airflow e Glue</strong>, além da criação e consumo de <strong>APIs REST</strong>. Experiência na prestação de serviços analíticos remotos para grandes clientes corporativos, construindo pontes entre times técnicos, plataformas como <strong>Google Looker Studio</strong> e a <strong>liderança executiva</strong>.
             </p>
         </section>
 
@@ -68,41 +68,41 @@
 
                 <div>
                     <div class="flex justify-between items-baseline">
-                        <h3 class="text-[15px] font-bold text-slate-800">Analista de Dados Pleno | BI & Estratégia Comercial</h3>
+                        <h3 class="text-[15px] font-bold text-slate-800">Engenheiro & Analista de Dados Pleno</h3>
                         <span class="text-[13px] text-slate-500 font-medium">Jun/2025 – Atual</span>
                     </div>
                     <p class="text-[13px] italic text-slate-500">Grupo OLX, Brasil</p>
                     <ul class="mt-2 list-disc ml-4 space-y-1.5 text-[13.5px] text-slate-700">
-                        <li><strong>Power BI Avançado & DirectQuery:</strong> Desenvolvimento e otimização de soluções em Power BI aplicando modelagem dimensional (Star Schema), fórmulas DAX avançadas e DirectQuery para acesso em tempo real a grandes volumes de dados.</li>
-                        <li><strong>Databricks & Arquitetura Medallion:</strong> Consulta e manipulação de pipelines e relatórios consumindo dados organizados nas camadas Bronze (raw), Silver (trada/limpa) e Gold (agregada/negócio) no Databricks.</li>
-                        <li><strong>Tradução de Regras de Negócio:</strong> Mapeamento direto de necessidades com gestores comerciais para transformar regras de negócio complexas em indicadores de performance (KPIs) confiáveis.</li>
-                        <li><strong>Validação & Automação com Python/PySpark:</strong> Criação de scripts em Python e PySpark para tratamento automatizado de dados e validação de inconsistências, otimizando o tempo de execução de consultas em 50%.</li>
+                        <li><strong>Pipelines ETL/ELT & Processamento Distribuído:</strong> Desenho, implementação e otimização de pipelines de dados escaláveis utilizando Python (Orientação a Objetos) e Apache Spark para ingestão de grandes volumes.</li>
+                        <li><strong>Orquestração em Nuvem & Cloud (AWS/GCP):</strong> Configuração de rotinas automatizadas e fluxos de trabalho via Airflow e AWS Glue, reduzindo em 50% o tempo operacional de atualização de bases.</li>
+                        <li><strong>Apresentações Executivas & Stakeholders:</strong> Interface direta com liderança executiva e diretores para apresentação de KPIs estratégicos, garantindo alinhamento de requisitos e decisões orientadas a dados.</li>
+                        <li><strong>Visualização & Dashboards:</strong> Desenvolvimento de visões executivas e relatórios em Google Looker Studio e Tableau para acompanhamento de métricas de negócio e performance de produtos.</li>
                     </ul>
                 </div>
 
                 <div>
                     <div class="flex justify-between items-baseline">
-                        <h3 class="text-[15px] font-bold text-slate-800">Analista de Dados Junior | Qualidade de Dados & Analytics</h3>
+                        <h3 class="text-[15px] font-bold text-slate-800">Analista de Dados Junior | Engenharia de Dados</h3>
                         <span class="text-[13px] text-slate-500 font-medium">Set/2023 – Jun/2025</span>
                     </div>
                     <p class="text-[13px] italic text-slate-500">Grupo OLX, Brasil</p>
                     <ul class="mt-2 list-disc ml-4 space-y-1.5 text-[13.5px] text-slate-700">
-                        <li><strong>Qualidade de Dados & Governança:</strong> Implementação de rotinas de qualidade de dados com criação de regras de validação, detecção de exceções e investigação contínua de divergências entre bases operacionais.</li>
-                        <li><strong>Aplicações em Streamlit & Python:</strong> Desenvolvimento de ferramentas e webapps internos com Streamlit para visualização rápida e prototipagem de dados para apoio às áreas de suporte e produto.</li>
-                        <li><strong>Consultas SQL Avançadas:</strong> Manipulação e validação de dados utilizando SQL (Window Functions, CTEs, Joins complexos) sobre Data Lakes e bancos relacionais.</li>
-                        <li><strong>Dashboards Executivos:</strong> Construção de painéis no Power BI e Tableau para monitoramento de métricas operacionais, reduzindo o tempo de identificação de falhas em até 80%.</li>
+                        <li><strong>Desenvolvimento de APIs REST & Integrações:</strong> Construção e disponibilização de APIs REST em ambiente Cloud para servir modelos analíticos e integrar dados entre sistemas corporativos.</li>
+                        <li><strong>Streaming & Arquitetura de Eventos:</strong> Apoio na sustentação de fluxos de dados distribuídos com Apache Kafka e Data Lakes corporativos.</li>
+                        <li><strong>Trabalho Remoto com Clientes Corporativos:</strong> Atuação em squad remota prestando suporte técnico e soluções analíticas de alta disponibilidade para diferentes áreas de negócio.</li>
+                        <li><strong>Qualidade de Dados & SQL:</strong> Execução de consultas SQL avançadas (Window Functions, CTEs, Joins complexos) para auditoria e garantia da consistência dos pipelines.</li>
                     </ul>
                 </div>
 
                 <div>
                     <div class="flex justify-between items-baseline">
-                        <h3 class="text-[15px] font-bold text-slate-800">Estagiário de Análise de Dados</h3>
+                        <h3 class="text-[15px] font-bold text-slate-800">Estagiário de Dados</h3>
                         <span class="text-[13px] text-slate-500 font-medium">Jan/2022 – Ago/2023</span>
                     </div>
                     <p class="text-[13px] italic text-slate-500">Grupo OLX, Brasil</p>
                     <ul class="mt-2 list-disc ml-4 space-y-1.5 text-[13.5px] text-slate-700">
-                        <li><strong>Tratamento de Dados & Suporte:</strong> Extração, limpeza e cruzamento de dados via SQL e relatórios em Power BI/Google Sheets para identificação de inconsistências de cadastro.</li>
-                        <li><strong>Acompanhamento de Processos:</strong> Apoio na documentação de regras de validação e validação quantitativa de indicadores operacionais da área.</li>
+                        <li><strong>Automação em Looker Studio & SQL:</strong> Desenvolvimento de relatórios e automação de extrações em SQL e Google Looker Studio para equipes operacionais.</li>
+                        <li><strong>Versionamento & Processos:</strong> Documentação técnica de rotinas e controle de versão de código utilizando Git e métodos ágeis.</li>
                     </ul>
                 </div>
 
@@ -116,20 +116,20 @@
             <h2 class="text-[15px] font-bold text-slate-800 uppercase mb-4">Habilidades Técnicas & Tecnologias</h2>
             <div class="grid grid-cols-2 gap-y-3 gap-x-8 text-[13.5px]">
                 <div>
-                    <span class="font-bold text-slate-800">Power BI & BI Avançado:</span>
-                    <p class="text-slate-600">Power BI (DAX Avançado, Modelagem de Dados, DirectQuery, Performance Tuning), Tableau</p>
+                    <span class="font-bold text-slate-800">Linguagens & Engenharia de Dados:</span>
+                    <p class="text-slate-600">Python (Orientação a Objetos), SQL Avançado, Desenvolvimento e Criação de APIs REST</p>
                 </div>
                 <div>
-                    <span class="font-bold text-slate-800">Databricks & Arquitetura de Dados:</span>
-                    <p class="text-slate-600">Databricks, Arquitetura Medallion (Bronze, Silver, Gold), Data Lakes, Data Warehouse</p>
+                    <span class="font-bold text-slate-800">Engenharia Cloud & Orquestração:</span>
+                    <p class="text-slate-600">Cloud (AWS, GCP, Azure), Apache Airflow, AWS Glue, Arquiteturas ETL/ELT</p>
                 </div>
                 <div>
-                    <span class="font-bold text-slate-800">SQL & Qualidade de Dados:</span>
-                    <p class="text-slate-600">SQL Avançado (Manipulação e Validação), Regras de Qualidade de Dados, Tratamento de Exceções</p>
+                    <span class="font-bold text-slate-800">Sistemas Distribuídos & Big Data:</span>
+                    <p class="text-slate-600">Apache Spark (PySpark), Apache Kafka, Hadoop, Data Lakes, Docker, Git</p>
                 </div>
                 <div>
-                    <span class="font-bold text-slate-800">Linguagens & Aplicações:</span>
-                    <p class="text-slate-600">Python, PySpark, Streamlit (Aplicações de Dados), Git/GitHub, Regras de Negócio</p>
+                    <span class="font-bold text-slate-800">Visualização & Gestão Executiva:</span>
+                    <p class="text-slate-600">Google Looker Studio, Tableau, Interface com Liderança Executiva, Atendimento Corporativo Remoto</p>
                 </div>
             </div>
         </section>
