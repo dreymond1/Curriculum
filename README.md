@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
@@ -37,7 +38,7 @@
         <!-- CABEÇALHO -->
         <header>
             <h1 class="text-[32px] font-bold text-slate-800 leading-none">Andrey Alves</h1>
-            <p class="text-lg text-slate-600 font-semibold mt-2">Analista de BI & Analytics Pleno | Dataviz, Figma, Databricks & IA</p>
+            <p class="text-lg text-slate-600 font-semibold mt-2">Analista de Dados & IA Pleno | Python, Machine Learning, Power BI & SQL</p>
             
             <div class="mt-4 flex flex-wrap gap-x-5 gap-y-2 text-[13px] text-slate-600">
                 <span>E-mail: <a href="mailto:andrey.alves9@gmail.com" class="hover:underline text-slate-800">andrey.alves9@gmail.com</a></span>
@@ -55,7 +56,7 @@
         <section class="mb-8">
             <h2 class="text-[15px] font-bold text-slate-800 uppercase mb-3">Resumo Profissional</h2>
             <p class="text-[14px] leading-relaxed text-slate-700 text-justify">
-                Cientista da Computação e Analista de BI/Dados Pleno com sólida experiência no <strong>levantamento de requisitos com áreas de negócio</strong> e construção de soluções analíticas funcionais. Especialista na criação de dashboards executivos em <strong>Tableau, Power BI e Looker Studio</strong>, aplicando boas práticas de <strong>Dataviz, UX/UI e prototipagem no Figma</strong>. Forte domínio de <strong>SQL e modelagem de dados</strong>, com atuação destacada em <strong>Databricks</strong> para preparação e consulta de grandes volumes. Atuação inovadora incorporando <strong>Inteligência Artificial Generativa e assistentes/agentes de IA</strong> para automação do desenvolvimento analítico e geração acelerada de insights.
+                Cientista da Computação e Analista de Dados Pleno com sólida experiência no manuseio de grandes volumes de dados, modelagem preditiva e projetos de <strong>transformação digital e automação inteligente</strong>. Domínio avançado em <strong>Python, SQL e Power BI</strong> para análise exploratória, construção de pipelines ETL e visualização de indicadores estratégicos. Atuação destacada no desenvolvimento de soluções de <strong>Machine Learning, Redes Neurais e IA Generativa (LLMs, RAG e agentes autônomos)</strong>, combinando estatística aplicada, <strong>simulação de cenários e otimização matemática</strong> para acelerar a tomada de decisão operacional e comercial.
             </p>
         </section>
 
@@ -67,29 +68,29 @@
 
                 <div>
                     <div class="flex justify-between items-baseline">
-                        <h3 class="text-[15px] font-bold text-slate-800">Analista de Dados & BI Pleno | Estratégia Comercial</h3>
+                        <h3 class="text-[15px] font-bold text-slate-800">Analista de Dados Pleno | Transformação Digital & Estratégia</h3>
                         <span class="text-[13px] text-slate-500 font-medium">Jun/2025 – Atual</span>
                     </div>
                     <p class="text-[13px] italic text-slate-500">Grupo OLX, Brasil</p>
                     <ul class="mt-2 list-disc ml-4 space-y-1.5 text-[13.5px] text-slate-700">
-                        <li><strong>Levantamento de Requisitos & Parceria com Negócio:</strong> Mapeamento contínuo de necessidades junto a gestores comerciais, traduzindo perguntas de negócio complexas em indicadores (KPIs) e especificações analíticas claras.</li>
-                        <li><strong>Dataviz & Prototipagem no Figma:</strong> Criação de wireframes e protótipos navegáveis no Figma antes do desenvolvimento, garantindo alta usabilidade (UX/UI) na entrega de dashboards no Tableau e Power BI.</li>
-                        <li><strong>Consulta & Preparação em Databricks:</strong> Utilização do Databricks e SQL avançado para exploração, tratamento e modelagem dimensional de grandes volumes de dados para suporte às soluções de BI.</li>
-                        <li><strong>Aceleração com IA Generativa:</strong> Implementação de fluxos apoiados por ferramentas de IA (LLMs e agentes) para automação na escrita de consultas SQL, documentação de painéis e interpretação rápida de dados.</li>
+                        <li><strong>Automação de Dados & Pipelines ETL em Python:</strong> Desenvolvimento de rotinas em Python e SQL para extração, limpeza e automação de grandes volumes de dados, reduzindo em 50% o tempo operacional das atividades da área.</li>
+                        <li><strong>Visualização de Indicadores no Power BI:</strong> Arquitetura de dashboards dinâmicos no Power BI e Tableau com foco em simulação de cenários comerciais, acompanhamento de KPIs de receita e eficiência de produto.</li>
+                        <li><strong>Aplicações de IA & Otimização:</strong> Liderança técnica na implementação de fluxos apoiados por IA Generativa e algoritmos de otimização para apoio à decisão tática e estratégia comercial.</li>
+                        <li><strong>Análise Estatística & Preditiva:</strong> Aplicação de modelos estatísticos e simulações para acompanhamento do mercado automotivo e imobiliário, identificando tendências e oportunidades de crescimento.</li>
                     </ul>
                 </div>
 
                 <div>
                     <div class="flex justify-between items-baseline">
-                        <h3 class="text-[15px] font-bold text-slate-800">Analista de Dados Junior | Customer Experience & BI</h3>
+                        <h3 class="text-[15px] font-bold text-slate-800">Analista de Dados Junior | Machine Learning & Analytics</h3>
                         <span class="text-[13px] text-slate-500 font-medium">Set/2023 – Jun/2025</span>
                     </div>
                     <p class="text-[13px] italic text-slate-500">Grupo OLX, Brasil</p>
                     <ul class="mt-2 list-disc ml-4 space-y-1.5 text-[13.5px] text-slate-700">
-                        <li><strong>Construção de Dashboards & UX:</strong> Arquitetura e desenvolvimento de painéis de acompanhamento no Tableau, Looker Studio e Power BI, otimizando em até 80% o tempo de análise das áreas usuárias através de visualizações intuitivas.</li>
-                        <li><strong>Modelagem de Dados & SQL:</strong> Estruturação de consultas SQL (CTEs, Window Functions, Joins complexos) e tabelas agregadas para alimentação de relatórios de alta performance.</li>
-                        <li><strong>Prototipagem de Soluções com IA:</strong> Aplicação de IA Generativa para análise automatizada de sentimentos e classificação de dados não estruturados de usuários, integrando visões analíticas aos dashboards de CX.</li>
-                        <li><strong>Garantia de Qualidade & Interação com Usuários:</strong> Condução de testes de aceitação e validações de dados junto aos stakeholders para garantir a aderência e confiabilidade dos painéis publicados.</li>
+                        <li><strong>Modelos de Machine Learning & Redes Neurais:</strong> Desenvolvimento e implementação de modelos preditivos e de análise de sentimentos em Python (Scikit-learn, TensorFlow/PyTorch) para classificação automatizada de feedbacks e interações.</li>
+                        <li><strong>Transformação Digital com IA Generativa:</strong> Implementação de aplicações baseadas em LLMs e arquiteturas RAG para automação de triagens analíticas e extração de insights de dados não estruturados do Data Lake.</li>
+                        <li><strong>Estatística Aplicada & Detecção de Anomalidades:</strong> Aplicação de regressões, correlações e técnicas de detecção de outliers para ajuste de modelos e otimização de até 80% no tempo gasto em rotinas operacionais.</li>
+                        <li><strong>Servimento via APIs & Cloud:</strong> Disponibilização de modelos de Machine Learning via REST APIs em ambiente de nuvem (AWS) para consumo por sistemas e dashboards internos.</li>
                     </ul>
                 </div>
 
@@ -100,8 +101,8 @@
                     </div>
                     <p class="text-[13px] italic text-slate-500">Grupo OLX, Brasil</p>
                     <ul class="mt-2 list-disc ml-4 space-y-1.5 text-[13.5px] text-slate-700">
-                        <li><strong>Suporte a BI & Relatórios:</strong> Apoio no levantamento de demandas do time de atendimento, criando relatórios e visões analíticas operacionais no Looker Studio e Google Sheets via SQL.</li>
-                        <li><strong>Documentação de Regras:</strong> Mapeamento das definições de métricas e suporte na elaboração de leiautes para apresentação de dados a clientes internos.</li>
+                        <li><strong>Análises Quantitativas em SQL:</strong> Execução de consultas SQL e relatórios no Google Sheets/Excel para validação de hipóteses e suporte à tomada de decisão.</li>
+                        <li><strong>Automação de Relatórios:</strong> Criação de visões analíticas automatizadas no Looker Studio, acelerando o tempo de resposta e acompanhamento de metas diárias.</li>
                     </ul>
                 </div>
 
@@ -115,20 +116,20 @@
             <h2 class="text-[15px] font-bold text-slate-800 uppercase mb-4">Habilidades Técnicas & Tecnologias</h2>
             <div class="grid grid-cols-2 gap-y-3 gap-x-8 text-[13.5px]">
                 <div>
-                    <span class="font-bold text-slate-800">Business Intelligence & Dataviz:</span>
-                    <p class="text-slate-600">Tableau, Power BI, Looker Studio, Princípios de Dataviz e UX/UI para Dashboards</p>
+                    <span class="font-bold text-slate-800">Linguagens & Modelagem:</span>
+                    <p class="text-slate-600">Python (Pandas, NumPy, Scikit-learn), SQL Avançado, Power BI (DAX, Modelagem)</p>
                 </div>
                 <div>
-                    <span class="font-bold text-slate-800">Prototipagem & Negócios:</span>
-                    <p class="text-slate-600">Figma (Wireframes e Protótipos), Levantamento de Requisitos, Mapeamento de KPIs</p>
+                    <span class="font-bold text-slate-800">Machine Learning & Inteligência Artificial:</span>
+                    <p class="text-slate-600">Redes Neurais, Modelos Preditivos, Análise de Sentimentos, IA Generativa (LLMs, RAG, Agentes Autônomos)</p>
                 </div>
                 <div>
-                    <span class="font-bold text-slate-800">Engenharia de Dados & SQL:</span>
-                    <p class="text-slate-600">SQL Avançado (CTEs, Window Functions), Databricks (Exploração e Preparação), Modelagem de Dados</p>
+                    <span class="font-bold text-slate-800">Estatística & Otimização:</span>
+                    <p class="text-slate-600">Estatística Aplicada, Regressão, Detecção de Outliers, Simulação de Cenários, Otimização Matemática</p>
                 </div>
                 <div>
-                    <span class="font-bold text-slate-800">IA Generativa & Automação:</span>
-                    <p class="text-slate-600">Uso de IA / Agentes para Análise de Dados, Python (Pandas), Streamlit, Git, Métodos Ágeis</p>
+                    <span class="font-bold text-slate-800">Engenharia de Dados & Nuvem:</span>
+                    <p class="text-slate-600">Pipelines ETL, Grandes Volumes (Data Lake), AWS, REST APIs, Git/GitHub, Tableau, Streamlit</p>
                 </div>
             </div>
         </section>
